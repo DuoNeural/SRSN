@@ -68,17 +68,17 @@ Pretrained on 36M+ tokens on a commodity AMD Ryzen 5 3550H APU:
 
 ```
 ========================================================================================
-=== SRSN-24M AT STEP 1325 (43.41M TOKENS PROCESSED) ===
+=== SRSN-24M AT STEP 1350 (44.24M TOKENS PROCESSED) ===
 ========================================================================================
-Training / Validation Loss:     6.4658 / 6.8937  <-- Sub-6.50 training loss plunge!
-Bistable Double-Wells:          34 / 3840 (Macroscopic permanent phase attractors)
-Vanguard Potential Well:        min(alpha) = -0.232485  <-- All-time campaign deep well record!
-Peak Restorative Stiffness:     max(alpha) = +0.208812
-Spectral Dispersion sigma:      0.032151  <-- +950.0% monotonic expansion over baseline!
-Monotonic Dispersion Streak:    55 CONSECUTIVE CHECKPOINTS (Zero reversals since Step 10)
-Global Dipole Invariance:       mean(alpha) = 0.099137 ± 0.0019
+Training / Validation Loss:     6.4863 / 6.7189  <-- Stable continuous convergence!
+Bistable Double-Wells:          33 / 3840 (Macroscopic permanent phase attractors)
+Vanguard Potential Well:        min(alpha) = -0.240412  <-- Shattered the -0.240 boundary!
+Peak Restorative Stiffness:     max(alpha) = +0.212518
+Spectral Dispersion sigma:      0.032163  <-- +950.4% monotonic expansion over baseline!
+Monotonic Dispersion Streak:    56 CONSECUTIVE CHECKPOINTS (Zero reversals since Step 10)
+Global Dipole Invariance:       mean(alpha) = 0.098940 ± 0.0019
 Throughput on Mobile APU:       217 – 264 tokens/second
-Active Resident Memory RSS:     674 MB – 712 MB (54% reduction vs PyTorch ATen baseline)
+Active Resident Memory RSS:     674 MB – 700 MB (54% reduction vs PyTorch ATen baseline)
 ========================================================================================
 ```
 
