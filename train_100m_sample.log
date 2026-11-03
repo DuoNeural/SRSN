@@ -1,0 +1,2000 @@
+  [Micro-step 7065] Loss: 7.0045 | Speed:  212.4 tok/s
+  [Micro-step 7066] Loss: 6.4472 | Speed:  202.3 tok/s
+  [Micro-step 7067] Loss: 6.6672 | Speed:  232.5 tok/s
+  [Micro-step 7068] Loss: 6.8084 | Speed:  246.8 tok/s
+  [Micro-step 7069] Loss: 7.2118 | Speed:  243.1 tok/s
+  [Micro-step 7070] Loss: 7.0788 | Speed:  241.5 tok/s
+  [Micro-step 7071] Loss: 6.9458 | Speed:  239.0 tok/s
+Step 884/3250 (uStep 7072) | Loss: 6.8610 | GradNorm: 102053.992 | LR_scale: 0.847 | Speed:  213.4 tok/s | RSS:  942.4 MB
+  [Micro-step 7073] Loss: 6.8605 | Speed:  215.8 tok/s
+  [Micro-step 7074] Loss: 6.5144 | Speed:  274.5 tok/s
+  [Micro-step 7075] Loss: 6.7233 | Speed:  237.9 tok/s
+  [Micro-step 7076] Loss: 6.4300 | Speed:  252.2 tok/s
+  [Micro-step 7077] Loss: 6.9097 | Speed:  212.0 tok/s
+  [Micro-step 7078] Loss: 7.1071 | Speed:  203.8 tok/s
+  [Micro-step 7079] Loss: 7.2751 | Speed:  258.7 tok/s
+Step 885/3250 (uStep 7080) | Loss: 6.7937 | GradNorm: 39962.457 | LR_scale: 0.846 | Speed:  243.2 tok/s | RSS:  927.4 MB
+  [Micro-step 7081] Loss: 6.4043 | Speed:  246.1 tok/s
+  [Micro-step 7082] Loss: 6.2861 | Speed:  273.6 tok/s
+  [Micro-step 7083] Loss: 6.8016 | Speed:  228.0 tok/s
+  [Micro-step 7084] Loss: 6.8657 | Speed:  218.7 tok/s
+  [Micro-step 7085] Loss: 6.6068 | Speed:  223.7 tok/s
+  [Micro-step 7086] Loss: 6.8899 | Speed:  246.0 tok/s
+  [Micro-step 7087] Loss: 6.8875 | Speed:  219.4 tok/s
+Step 886/3250 (uStep 7088) | Loss: 6.7831 | GradNorm: 411058.625 | LR_scale: 0.846 | Speed:  228.7 tok/s | RSS:  942.2 MB
+  [Micro-step 7089] Loss: 7.2149 | Speed:  253.8 tok/s
+  [Micro-step 7090] Loss: 7.0292 | Speed:  243.0 tok/s
+  [Micro-step 7091] Loss: 6.8400 | Speed:  242.0 tok/s
+  [Micro-step 7092] Loss: 7.0765 | Speed:  243.4 tok/s
+  [Micro-step 7093] Loss: 6.8706 | Speed:  219.0 tok/s
+  [Micro-step 7094] Loss: 6.9139 | Speed:  205.0 tok/s
+  [Micro-step 7095] Loss: 6.6352 | Speed:  229.7 tok/s
+Step 887/3250 (uStep 7096) | Loss: 6.9490 | GradNorm: 118068.211 | LR_scale: 0.846 | Speed:  245.1 tok/s | RSS:  953.6 MB
+  [Micro-step 7097] Loss: 7.0266 | Speed:  267.7 tok/s
+  [Micro-step 7098] Loss: 7.1832 | Speed:  256.0 tok/s
+  [Micro-step 7099] Loss: 6.5369 | Speed:  223.9 tok/s
+  [Micro-step 7100] Loss: 6.6641 | Speed:  235.2 tok/s
+  [Micro-step 7101] Loss: 6.5211 | Speed:  226.9 tok/s
+  [Micro-step 7102] Loss: 6.8819 | Speed:  239.8 tok/s
+  [Micro-step 7103] Loss: 6.9127 | Speed:  278.1 tok/s
+Step 888/3250 (uStep 7104) | Loss: 6.8469 | GradNorm: 160999.750 | LR_scale: 0.845 | Speed:  238.2 tok/s | RSS:  964.4 MB
+  [Micro-step 7105] Loss: 6.6877 | Speed:  215.7 tok/s
+  [Micro-step 7106] Loss: 7.2614 | Speed:  240.7 tok/s
+  [Micro-step 7107] Loss: 6.3537 | Speed:  241.6 tok/s
+  [Micro-step 7108] Loss: 6.5658 | Speed:  213.2 tok/s
+  [Micro-step 7109] Loss: 7.1002 | Speed:  234.2 tok/s
+  [Micro-step 7110] Loss: 6.9480 | Speed:  243.5 tok/s
+  [Micro-step 7111] Loss: 6.7758 | Speed:  219.6 tok/s
+Step 889/3250 (uStep 7112) | Loss: 6.5809 | GradNorm: 60919.207 | LR_scale: 0.845 | Speed:  205.2 tok/s | RSS:  947.4 MB
+  [Micro-step 7113] Loss: 6.6325 | Speed:  262.6 tok/s
+  [Micro-step 7114] Loss: 7.0179 | Speed:  231.1 tok/s
+  [Micro-step 7115] Loss: 6.8696 | Speed:  230.0 tok/s
+  [Micro-step 7116] Loss: 7.1467 | Speed:  234.6 tok/s
+  [Micro-step 7117] Loss: 6.7945 | Speed:  212.9 tok/s
+  [Micro-step 7118] Loss: 6.9133 | Speed:  236.2 tok/s
+  [Micro-step 7119] Loss: 6.6254 | Speed:  269.0 tok/s
+Step 890/3250 (uStep 7120) | Loss: 6.8140 | GradNorm: 140787.016 | LR_scale: 0.845 | Speed:  245.1 tok/s | RSS:  927.4 MB
+  [Micro-step 7121] Loss: 6.9095 | Speed:  256.0 tok/s
+  [Micro-step 7122] Loss: 6.9189 | Speed:  195.3 tok/s
+  [Micro-step 7123] Loss: 6.9563 | Speed:  233.0 tok/s
+  [Micro-step 7124] Loss: 7.0433 | Speed:  221.1 tok/s
+  [Micro-step 7125] Loss: 7.0770 | Speed:  215.8 tok/s
+  [Micro-step 7126] Loss: 7.3760 | Speed:  238.3 tok/s
+  [Micro-step 7127] Loss: 6.8402 | Speed:  239.3 tok/s
+Step 891/3250 (uStep 7128) | Loss: 7.3780 | GradNorm: 202668.094 | LR_scale: 0.844 | Speed:  231.1 tok/s | RSS:  947.3 MB
+  [Micro-step 7129] Loss: 6.8373 | Speed:  253.0 tok/s
+  [Micro-step 7130] Loss: 6.7552 | Speed:  228.0 tok/s
+  [Micro-step 7131] Loss: 7.0301 | Speed:  243.4 tok/s
+  [Micro-step 7132] Loss: 6.9737 | Speed:  200.3 tok/s
+  [Micro-step 7133] Loss: 6.7046 | Speed:  222.0 tok/s
+  [Micro-step 7134] Loss: 6.8474 | Speed:  261.4 tok/s
+  [Micro-step 7135] Loss: 6.9256 | Speed:  215.5 tok/s
+Step 892/3250 (uStep 7136) | Loss: 6.8388 | GradNorm: 132973.391 | LR_scale: 0.844 | Speed:  240.1 tok/s | RSS:  927.4 MB
+  [Micro-step 7137] Loss: 6.8115 | Speed:  209.7 tok/s
+  [Micro-step 7138] Loss: 6.3920 | Speed:  223.9 tok/s
+  [Micro-step 7139] Loss: 6.9859 | Speed:  223.1 tok/s
+  [Micro-step 7140] Loss: 6.7191 | Speed:  218.6 tok/s
+  [Micro-step 7141] Loss: 7.1944 | Speed:  211.5 tok/s
+  [Micro-step 7142] Loss: 6.8558 | Speed:  239.3 tok/s
+  [Micro-step 7143] Loss: 6.5847 | Speed:  224.5 tok/s
+Step 893/3250 (uStep 7144) | Loss: 6.6466 | GradNorm: 205591.594 | LR_scale: 0.844 | Speed:  211.2 tok/s | RSS:  975.5 MB
+  [Micro-step 7145] Loss: 6.6740 | Speed:  223.6 tok/s
+  [Micro-step 7146] Loss: 6.5676 | Speed:  222.6 tok/s
+  [Micro-step 7147] Loss: 7.2250 | Speed:  257.9 tok/s
+  [Micro-step 7148] Loss: 7.0926 | Speed:  243.9 tok/s
+  [Micro-step 7149] Loss: 7.0184 | Speed:  276.9 tok/s
+  [Micro-step 7150] Loss: 6.6904 | Speed:  265.2 tok/s
+  [Micro-step 7151] Loss: 6.7692 | Speed:  233.8 tok/s
+Step 894/3250 (uStep 7152) | Loss: 6.6138 | GradNorm: 200339.188 | LR_scale: 0.843 | Speed:  252.5 tok/s | RSS:  947.6 MB
+  [Micro-step 7153] Loss: 6.9850 | Speed:  222.6 tok/s
+  [Micro-step 7154] Loss: 6.6863 | Speed:  224.5 tok/s
+  [Micro-step 7155] Loss: 6.9952 | Speed:  242.9 tok/s
+  [Micro-step 7156] Loss: 6.7518 | Speed:  215.1 tok/s
+  [Micro-step 7157] Loss: 7.1546 | Speed:  247.5 tok/s
+  [Micro-step 7158] Loss: 7.2288 | Speed:  229.2 tok/s
+  [Micro-step 7159] Loss: 6.7511 | Speed:  267.0 tok/s
+Step 895/3250 (uStep 7160) | Loss: 7.0366 | GradNorm: 118745.469 | LR_scale: 0.843 | Speed:  248.8 tok/s | RSS:  927.4 MB
+  [Micro-step 7161] Loss: 6.8079 | Speed:  243.0 tok/s
+  [Micro-step 7162] Loss: 6.6721 | Speed:  242.1 tok/s
+  [Micro-step 7163] Loss: 6.8716 | Speed:  205.2 tok/s
+  [Micro-step 7164] Loss: 6.7472 | Speed:  255.0 tok/s
+  [Micro-step 7165] Loss: 6.9992 | Speed:  245.9 tok/s
+  [Micro-step 7166] Loss: 6.8712 | Speed:  215.0 tok/s
+  [Micro-step 7167] Loss: 6.7580 | Speed:  194.9 tok/s
+Step 896/3250 (uStep 7168) | Loss: 6.5814 | GradNorm: 626781.062 | LR_scale: 0.843 | Speed:  217.8 tok/s | RSS:  952.2 MB
+  [Micro-step 7169] Loss: 6.5986 | Speed:  222.3 tok/s
+  [Micro-step 7170] Loss: 6.7114 | Speed:  211.0 tok/s
+  [Micro-step 7171] Loss: 6.7837 | Speed:  195.3 tok/s
+  [Micro-step 7172] Loss: 6.8882 | Speed:  240.5 tok/s
+  [Micro-step 7173] Loss: 6.9437 | Speed:  228.8 tok/s
+  [Micro-step 7174] Loss: 7.0934 | Speed:  242.0 tok/s
+  [Micro-step 7175] Loss: 6.8484 | Speed:  263.4 tok/s
+Step 897/3250 (uStep 7176) | Loss: 6.6947 | GradNorm: 177910.219 | LR_scale: 0.842 | Speed:  247.2 tok/s | RSS:  944.5 MB
+  [Micro-step 7177] Loss: 6.7303 | Speed:  244.5 tok/s
+  [Micro-step 7178] Loss: 7.0354 | Speed:  225.7 tok/s
+  [Micro-step 7179] Loss: 6.9759 | Speed:  231.0 tok/s
+  [Micro-step 7180] Loss: 7.2212 | Speed:  227.8 tok/s
+  [Micro-step 7181] Loss: 6.5294 | Speed:  279.5 tok/s
+  [Micro-step 7182] Loss: 7.0662 | Speed:  234.6 tok/s
+  [Micro-step 7183] Loss: 6.7881 | Speed:  227.9 tok/s
+Step 898/3250 (uStep 7184) | Loss: 6.8363 | GradNorm: 371638.062 | LR_scale: 0.842 | Speed:  202.8 tok/s | RSS:  977.4 MB
+  [Micro-step 7185] Loss: 7.1603 | Speed:  213.8 tok/s
+  [Micro-step 7186] Loss: 6.5569 | Speed:  214.8 tok/s
+  [Micro-step 7187] Loss: 6.9163 | Speed:  238.5 tok/s
+  [Micro-step 7188] Loss: 7.0168 | Speed:  244.2 tok/s
+  [Micro-step 7189] Loss: 7.0169 | Speed:  227.1 tok/s
+  [Micro-step 7190] Loss: 7.0787 | Speed:  230.1 tok/s
+  [Micro-step 7191] Loss: 6.5568 | Speed:  228.5 tok/s
+Step 899/3250 (uStep 7192) | Loss: 6.8478 | GradNorm: 1028737.438 | LR_scale: 0.842 | Speed:  238.6 tok/s | RSS:  940.8 MB
+  [Micro-step 7193] Loss: 6.5053 | Speed:  232.8 tok/s
+  [Micro-step 7194] Loss: 7.0678 | Speed:  214.3 tok/s
+  [Micro-step 7195] Loss: 7.2751 | Speed:  212.5 tok/s
+  [Micro-step 7196] Loss: 6.6137 | Speed:  215.8 tok/s
+  [Micro-step 7197] Loss: 6.6363 | Speed:  237.1 tok/s
+  [Micro-step 7198] Loss: 7.0256 | Speed:  211.2 tok/s
+  [Micro-step 7199] Loss: 7.1368 | Speed:  250.7 tok/s
+Step 900/3250 (uStep 7200) | Loss: 7.0587 | GradNorm: 493280.844 | LR_scale: 0.841 | Speed:  222.0 tok/s | RSS:  932.4 MB
+  --> [Validation] Val Loss: 6.6911
+  --> [Sample Story] "Once upon a time, Lily,, ofn.(* of the can iss, $-( of of* the the to
+)
+ the.al you to the a.
+.al a A the A $.(
+al= a="
+  --> [Sample Reason] "User: Is a cat an animal?
+
+Assistant: a -,, to,.,,. be the  of,. is A to,.)-
+1 and you of and. a"
+  --> [Checkpoint] Saved atomic checkpoint to /home/duoneural/srsn_ryzen/checkpoints/srsn_step0900.pt
+  [Micro-step 7201] Loss: 6.8117 | Speed:  270.3 tok/s
+  [Micro-step 7202] Loss: 6.6879 | Speed:  265.8 tok/s
+  [Micro-step 7203] Loss: 7.1439 | Speed:  196.6 tok/s
+  [Micro-step 7204] Loss: 6.7175 | Speed:  239.9 tok/s
+  [Micro-step 7205] Loss: 7.0179 | Speed:  213.5 tok/s
+  [Micro-step 7206] Loss: 6.8128 | Speed:  225.1 tok/s
+  [Micro-step 7207] Loss: 6.8017 | Speed:  229.5 tok/s
+Step 901/3250 (uStep 7208) | Loss: 7.0492 | GradNorm: 867218.375 | LR_scale: 0.841 | Speed:  236.3 tok/s | RSS:  980.9 MB
+  [Micro-step 7209] Loss: 7.2180 | Speed:  212.9 tok/s
+  [Micro-step 7210] Loss: 7.2856 | Speed:  230.2 tok/s
+  [Micro-step 7211] Loss: 7.6389 | Speed:  226.8 tok/s
+  [Micro-step 7212] Loss: 6.7908 | Speed:  228.3 tok/s
+  [Micro-step 7213] Loss: 6.7710 | Speed:  241.9 tok/s
+  [Micro-step 7214] Loss: 6.9101 | Speed:  246.3 tok/s
+  [Micro-step 7215] Loss: 6.7548 | Speed:  268.4 tok/s
+Step 902/3250 (uStep 7216) | Loss: 6.5624 | GradNorm: 444019.719 | LR_scale: 0.841 | Speed:  245.4 tok/s | RSS:  927.4 MB
+  [Micro-step 7217] Loss: 6.7206 | Speed:  218.3 tok/s
+  [Micro-step 7218] Loss: 6.7086 | Speed:  224.0 tok/s
+  [Micro-step 7219] Loss: 6.6706 | Speed:  222.1 tok/s
+  [Micro-step 7220] Loss: 6.9178 | Speed:  233.5 tok/s
+  [Micro-step 7221] Loss: 6.7017 | Speed:  211.7 tok/s
+  [Micro-step 7222] Loss: 6.9483 | Speed:  245.2 tok/s
+  [Micro-step 7223] Loss: 6.8239 | Speed:  269.5 tok/s
+Step 903/3250 (uStep 7224) | Loss: 6.8058 | GradNorm: 246530.484 | LR_scale: 0.840 | Speed:  228.6 tok/s | RSS:  947.4 MB
+  [Micro-step 7225] Loss: 7.2275 | Speed:  255.9 tok/s
+  [Micro-step 7226] Loss: 6.6940 | Speed:  246.9 tok/s
+  [Micro-step 7227] Loss: 6.9908 | Speed:  228.3 tok/s
+  [Micro-step 7228] Loss: 6.7741 | Speed:  269.7 tok/s
+  [Micro-step 7229] Loss: 6.9322 | Speed:  236.9 tok/s
+  [Micro-step 7230] Loss: 6.8783 | Speed:  245.6 tok/s
+  [Micro-step 7231] Loss: 6.8654 | Speed:  275.4 tok/s
+Step 904/3250 (uStep 7232) | Loss: 7.2370 | GradNorm: 87688.227 | LR_scale: 0.840 | Speed:  212.0 tok/s | RSS:  927.4 MB
+  [Micro-step 7233] Loss: 6.5894 | Speed:  194.0 tok/s
+  [Micro-step 7234] Loss: 6.9908 | Speed:  230.0 tok/s
+  [Micro-step 7235] Loss: 6.7994 | Speed:  256.3 tok/s
+  [Micro-step 7236] Loss: 6.8020 | Speed:  213.0 tok/s
+  [Micro-step 7237] Loss: 7.0432 | Speed:  250.9 tok/s
+  [Micro-step 7238] Loss: 6.6880 | Speed:  236.1 tok/s
+  [Micro-step 7239] Loss: 6.9945 | Speed:  210.3 tok/s
+Step 905/3250 (uStep 7240) | Loss: 7.2379 | GradNorm: 646359.062 | LR_scale: 0.840 | Speed:  217.1 tok/s | RSS:  927.4 MB
+  [Micro-step 7241] Loss: 6.5721 | Speed:  251.0 tok/s
+  [Micro-step 7242] Loss: 6.9144 | Speed:  218.7 tok/s
+  [Micro-step 7243] Loss: 6.7738 | Speed:  242.0 tok/s
+  [Micro-step 7244] Loss: 6.8086 | Speed:  233.2 tok/s
+  [Micro-step 7245] Loss: 6.9928 | Speed:  242.7 tok/s
+  [Micro-step 7246] Loss: 7.2168 | Speed:  219.0 tok/s
+  [Micro-step 7247] Loss: 6.9002 | Speed:  246.4 tok/s
+Step 906/3250 (uStep 7248) | Loss: 7.2739 | GradNorm: 230189.812 | LR_scale: 0.839 | Speed:  211.0 tok/s | RSS:  942.4 MB
+  [Micro-step 7249] Loss: 6.8746 | Speed:  267.3 tok/s
+  [Micro-step 7250] Loss: 7.1697 | Speed:  238.1 tok/s
+  [Micro-step 7251] Loss: 6.9162 | Speed:  253.4 tok/s
+  [Micro-step 7252] Loss: 6.5787 | Speed:  241.3 tok/s
+  [Micro-step 7253] Loss: 6.8576 | Speed:  197.1 tok/s
+  [Micro-step 7254] Loss: 6.6813 | Speed:  224.5 tok/s
+  [Micro-step 7255] Loss: 6.6410 | Speed:  250.3 tok/s
+Step 907/3250 (uStep 7256) | Loss: 7.0807 | GradNorm: 532281.438 | LR_scale: 0.839 | Speed:  217.3 tok/s | RSS:  927.4 MB
+  [Micro-step 7257] Loss: 6.7670 | Speed:  245.1 tok/s
+  [Micro-step 7258] Loss: 6.4750 | Speed:  216.7 tok/s
+  [Micro-step 7259] Loss: 6.4196 | Speed:  221.1 tok/s
+  [Micro-step 7260] Loss: 7.2070 | Speed:  262.5 tok/s
+  [Micro-step 7261] Loss: 6.8271 | Speed:  224.0 tok/s
+  [Micro-step 7262] Loss: 7.0250 | Speed:  246.2 tok/s
+  [Micro-step 7263] Loss: 6.7803 | Speed:  241.5 tok/s
+Step 908/3250 (uStep 7264) | Loss: 7.0110 | GradNorm: 138487.609 | LR_scale: 0.839 | Speed:  253.3 tok/s | RSS:  960.6 MB
+  [Micro-step 7265] Loss: 6.3870 | Speed:  232.3 tok/s
+  [Micro-step 7266] Loss: 7.0656 | Speed:  233.4 tok/s
+  [Micro-step 7267] Loss: 7.2278 | Speed:  267.3 tok/s
+  [Micro-step 7268] Loss: 6.6140 | Speed:  234.2 tok/s
+  [Micro-step 7269] Loss: 6.9132 | Speed:  260.9 tok/s
+  [Micro-step 7270] Loss: 6.8704 | Speed:  255.0 tok/s
+  [Micro-step 7271] Loss: 6.5874 | Speed:  252.4 tok/s
+Step 909/3250 (uStep 7272) | Loss: 6.6478 | GradNorm: 227266.469 | LR_scale: 0.838 | Speed:  237.0 tok/s | RSS:  927.4 MB
+  [Micro-step 7273] Loss: 6.9007 | Speed:  220.2 tok/s
+  [Micro-step 7274] Loss: 6.8058 | Speed:  215.0 tok/s
+  [Micro-step 7275] Loss: 6.9445 | Speed:  260.5 tok/s
+  [Micro-step 7276] Loss: 6.3649 | Speed:  218.5 tok/s
+  [Micro-step 7277] Loss: 6.9890 | Speed:  223.7 tok/s
+  [Micro-step 7278] Loss: 6.5658 | Speed:  255.4 tok/s
+  [Micro-step 7279] Loss: 7.0899 | Speed:  234.2 tok/s
+Step 910/3250 (uStep 7280) | Loss: 6.9221 | GradNorm: 497814.031 | LR_scale: 0.838 | Speed:  247.8 tok/s | RSS:  937.4 MB
+  [Micro-step 7281] Loss: 6.9210 | Speed:  238.1 tok/s
+  [Micro-step 7282] Loss: 6.9042 | Speed:  218.4 tok/s
+  [Micro-step 7283] Loss: 6.5481 | Speed:  223.4 tok/s
+  [Micro-step 7284] Loss: 6.8304 | Speed:  250.3 tok/s
+  [Micro-step 7285] Loss: 7.1486 | Speed:  241.3 tok/s
+  [Micro-step 7286] Loss: 6.7241 | Speed:  230.6 tok/s
+  [Micro-step 7287] Loss: 6.4369 | Speed:  227.9 tok/s
+Step 911/3250 (uStep 7288) | Loss: 6.8516 | GradNorm: 395044.750 | LR_scale: 0.838 | Speed:  211.9 tok/s | RSS:  965.8 MB
+  [Micro-step 7289] Loss: 7.0533 | Speed:  231.7 tok/s
+  [Micro-step 7290] Loss: 6.4730 | Speed:  246.9 tok/s
+  [Micro-step 7291] Loss: 6.8846 | Speed:  208.8 tok/s
+  [Micro-step 7292] Loss: 6.7652 | Speed:  251.7 tok/s
+  [Micro-step 7293] Loss: 7.0587 | Speed:  244.2 tok/s
+  [Micro-step 7294] Loss: 6.4340 | Speed:  227.4 tok/s
+  [Micro-step 7295] Loss: 6.9195 | Speed:  222.4 tok/s
+Step 912/3250 (uStep 7296) | Loss: 7.0095 | GradNorm: 562961.125 | LR_scale: 0.837 | Speed:  223.1 tok/s | RSS:  953.8 MB
+  [Micro-step 7297] Loss: 7.0096 | Speed:  213.4 tok/s
+  [Micro-step 7298] Loss: 6.6892 | Speed:  259.0 tok/s
+  [Micro-step 7299] Loss: 7.0537 | Speed:  256.8 tok/s
+  [Micro-step 7300] Loss: 6.4648 | Speed:  260.8 tok/s
+  [Micro-step 7301] Loss: 7.3381 | Speed:  236.2 tok/s
+  [Micro-step 7302] Loss: 6.3253 | Speed:  263.6 tok/s
+  [Micro-step 7303] Loss: 6.4882 | Speed:  242.6 tok/s
+Step 913/3250 (uStep 7304) | Loss: 6.6203 | GradNorm: 1010111.188 | LR_scale: 0.837 | Speed:  235.2 tok/s | RSS:  957.2 MB
+  [Micro-step 7305] Loss: 7.1220 | Speed:  275.1 tok/s
+  [Micro-step 7306] Loss: 6.6854 | Speed:  243.8 tok/s
+  [Micro-step 7307] Loss: 7.5065 | Speed:  231.9 tok/s
+  [Micro-step 7308] Loss: 5.9681 | Speed:  221.6 tok/s
+  [Micro-step 7309] Loss: 6.6870 | Speed:  217.2 tok/s
+  [Micro-step 7310] Loss: 7.2884 | Speed:  229.1 tok/s
+  [Micro-step 7311] Loss: 7.1986 | Speed:  235.5 tok/s
+Step 914/3250 (uStep 7312) | Loss: 6.9352 | GradNorm: 1164508.875 | LR_scale: 0.837 | Speed:  199.3 tok/s | RSS:  938.4 MB
+  [Micro-step 7313] Loss: 6.7331 | Speed:  203.2 tok/s
+  [Micro-step 7314] Loss: 7.0222 | Speed:  222.9 tok/s
+  [Micro-step 7315] Loss: 6.7288 | Speed:  229.4 tok/s
+  [Micro-step 7316] Loss: 6.8321 | Speed:  252.9 tok/s
+  [Micro-step 7317] Loss: 6.6457 | Speed:  219.6 tok/s
+  [Micro-step 7318] Loss: 7.1831 | Speed:  216.5 tok/s
+  [Micro-step 7319] Loss: 6.7891 | Speed:  228.7 tok/s
+Step 915/3250 (uStep 7320) | Loss: 7.1663 | GradNorm: 1266657.375 | LR_scale: 0.836 | Speed:  255.4 tok/s | RSS:  927.4 MB
+  [Micro-step 7321] Loss: 6.7956 | Speed:  226.8 tok/s
+  [Micro-step 7322] Loss: 6.9182 | Speed:  227.7 tok/s
+  [Micro-step 7323] Loss: 6.9408 | Speed:  246.1 tok/s
+  [Micro-step 7324] Loss: 6.8878 | Speed:  246.5 tok/s
+  [Micro-step 7325] Loss: 6.8889 | Speed:  221.0 tok/s
+  [Micro-step 7326] Loss: 6.9198 | Speed:  184.8 tok/s
+  [Micro-step 7327] Loss: 6.8838 | Speed:  249.0 tok/s
+Step 916/3250 (uStep 7328) | Loss: 6.9031 | GradNorm: 501426.844 | LR_scale: 0.836 | Speed:  261.1 tok/s | RSS:  947.4 MB
+  [Micro-step 7329] Loss: 6.7433 | Speed:  215.6 tok/s
+  [Micro-step 7330] Loss: 6.8734 | Speed:  244.7 tok/s
+  [Micro-step 7331] Loss: 6.4864 | Speed:  217.1 tok/s
+  [Micro-step 7332] Loss: 6.7920 | Speed:  246.1 tok/s
+  [Micro-step 7333] Loss: 7.0323 | Speed:  216.4 tok/s
+  [Micro-step 7334] Loss: 7.0098 | Speed:  222.0 tok/s
+  [Micro-step 7335] Loss: 6.9867 | Speed:  249.9 tok/s
+Step 917/3250 (uStep 7336) | Loss: 6.6659 | GradNorm: 2660480.250 | LR_scale: 0.836 | Speed:  255.3 tok/s | RSS:  927.4 MB
+  [Micro-step 7337] Loss: 6.9584 | Speed:  212.5 tok/s
+  [Micro-step 7338] Loss: 6.6546 | Speed:  212.1 tok/s
+  [Micro-step 7339] Loss: 6.7887 | Speed:  217.5 tok/s
+  [Micro-step 7340] Loss: 7.0308 | Speed:  245.6 tok/s
+  [Micro-step 7341] Loss: 6.9205 | Speed:  242.2 tok/s
+  [Micro-step 7342] Loss: 7.2430 | Speed:  252.4 tok/s
+  [Micro-step 7343] Loss: 6.9418 | Speed:  247.1 tok/s
+Step 918/3250 (uStep 7344) | Loss: 6.3404 | GradNorm: 1049380.875 | LR_scale: 0.835 | Speed:  274.6 tok/s | RSS:  927.4 MB
+  [Micro-step 7345] Loss: 7.0567 | Speed:  210.3 tok/s
+  [Micro-step 7346] Loss: 6.8496 | Speed:  263.7 tok/s
+  [Micro-step 7347] Loss: 6.9844 | Speed:  242.6 tok/s
+  [Micro-step 7348] Loss: 6.6905 | Speed:  228.2 tok/s
+  [Micro-step 7349] Loss: 6.4211 | Speed:  241.3 tok/s
+  [Micro-step 7350] Loss: 7.1204 | Speed:  247.8 tok/s
+  [Micro-step 7351] Loss: 7.1203 | Speed:  241.1 tok/s
+Step 919/3250 (uStep 7352) | Loss: 6.9890 | GradNorm: 451617.812 | LR_scale: 0.835 | Speed:  193.8 tok/s | RSS:  927.4 MB
+  [Micro-step 7353] Loss: 6.8295 | Speed:  237.7 tok/s
+  [Micro-step 7354] Loss: 7.0341 | Speed:  256.4 tok/s
+  [Micro-step 7355] Loss: 6.6540 | Speed:  219.2 tok/s
+  [Micro-step 7356] Loss: 6.7596 | Speed:  253.8 tok/s
+  [Micro-step 7357] Loss: 7.1310 | Speed:  202.8 tok/s
+  [Micro-step 7358] Loss: 6.5667 | Speed:  211.6 tok/s
+  [Micro-step 7359] Loss: 7.2062 | Speed:  207.2 tok/s
+Step 920/3250 (uStep 7360) | Loss: 6.8446 | GradNorm: 166088.891 | LR_scale: 0.835 | Speed:  211.2 tok/s | RSS:  969.0 MB
+  [Micro-step 7361] Loss: 7.3068 | Speed:  215.9 tok/s
+  [Micro-step 7362] Loss: 7.0382 | Speed:  244.3 tok/s
+  [Micro-step 7363] Loss: 6.3436 | Speed:  239.6 tok/s
+  [Micro-step 7364] Loss: 6.8607 | Speed:  222.9 tok/s
+  [Micro-step 7365] Loss: 6.7869 | Speed:  258.7 tok/s
+  [Micro-step 7366] Loss: 7.0770 | Speed:  229.0 tok/s
+  [Micro-step 7367] Loss: 7.0012 | Speed:  232.8 tok/s
+Step 921/3250 (uStep 7368) | Loss: 6.9652 | GradNorm: 640555.688 | LR_scale: 0.834 | Speed:  207.2 tok/s | RSS:  950.1 MB
+  [Micro-step 7369] Loss: 7.1414 | Speed:  253.4 tok/s
+  [Micro-step 7370] Loss: 6.4945 | Speed:  243.2 tok/s
+  [Micro-step 7371] Loss: 7.0469 | Speed:  239.6 tok/s
+  [Micro-step 7372] Loss: 7.1723 | Speed:  247.2 tok/s
+  [Micro-step 7373] Loss: 7.1815 | Speed:  257.6 tok/s
+  [Micro-step 7374] Loss: 6.6700 | Speed:  245.5 tok/s
+  [Micro-step 7375] Loss: 7.1691 | Speed:  221.3 tok/s
+Step 922/3250 (uStep 7376) | Loss: 6.7488 | GradNorm: 484752.469 | LR_scale: 0.834 | Speed:  235.3 tok/s | RSS:  940.6 MB
+  [Micro-step 7377] Loss: 6.8787 | Speed:  227.9 tok/s
+  [Micro-step 7378] Loss: 6.4974 | Speed:  221.9 tok/s
+  [Micro-step 7379] Loss: 6.9125 | Speed:  211.1 tok/s
+  [Micro-step 7380] Loss: 6.7251 | Speed:  225.7 tok/s
+  [Micro-step 7381] Loss: 6.3192 | Speed:  268.7 tok/s
+  [Micro-step 7382] Loss: 6.4658 | Speed:  247.2 tok/s
+  [Micro-step 7383] Loss: 7.0925 | Speed:  213.8 tok/s
+Step 923/3250 (uStep 7384) | Loss: 7.2348 | GradNorm: 429608.406 | LR_scale: 0.834 | Speed:  245.5 tok/s | RSS:  940.8 MB
+  [Micro-step 7385] Loss: 7.1705 | Speed:  238.9 tok/s
+  [Micro-step 7386] Loss: 7.2410 | Speed:  222.5 tok/s
+  [Micro-step 7387] Loss: 6.7156 | Speed:  213.1 tok/s
+  [Micro-step 7388] Loss: 7.0606 | Speed:  275.2 tok/s
+  [Micro-step 7389] Loss: 7.4460 | Speed:  249.5 tok/s
+  [Micro-step 7390] Loss: 7.0338 | Speed:  231.2 tok/s
+  [Micro-step 7391] Loss: 6.5395 | Speed:  199.0 tok/s
+Step 924/3250 (uStep 7392) | Loss: 6.5340 | GradNorm: 326977.062 | LR_scale: 0.833 | Speed:  246.7 tok/s | RSS:  970.6 MB
+  [Micro-step 7393] Loss: 6.8722 | Speed:  222.8 tok/s
+  [Micro-step 7394] Loss: 6.9006 | Speed:  256.2 tok/s
+  [Micro-step 7395] Loss: 6.4739 | Speed:  253.7 tok/s
+  [Micro-step 7396] Loss: 6.7510 | Speed:  229.0 tok/s
+  [Micro-step 7397] Loss: 6.7637 | Speed:  250.6 tok/s
+  [Micro-step 7398] Loss: 7.0243 | Speed:  235.9 tok/s
+  [Micro-step 7399] Loss: 7.0683 | Speed:  234.5 tok/s
+Step 925/3250 (uStep 7400) | Loss: 6.9743 | GradNorm: 265785.906 | LR_scale: 0.833 | Speed:  237.8 tok/s | RSS:  937.4 MB
+  --> [Validation] Val Loss: 6.6779
+  --> [Sample Story] "Once upon a time, Lily and.,) and., to be
+, and his you theon- a a the)
+ a to, is for. and0, in a and of anded in the* a= the. a of of."
+  --> [Sample Reason] "User: Is a cat an animal?
+
+Assistant:,), $ and.
+,  the $(,. $  the$ A...
+
+} (, the .:"
+  --> [Checkpoint] Saved atomic checkpoint to /home/duoneural/srsn_ryzen/checkpoints/srsn_step0925.pt
+  [Micro-step 7401] Loss: 6.8165 | Speed:  208.5 tok/s
+  [Micro-step 7402] Loss: 7.2415 | Speed:  234.7 tok/s
+  [Micro-step 7403] Loss: 7.2039 | Speed:  232.7 tok/s
+  [Micro-step 7404] Loss: 6.5235 | Speed:  258.7 tok/s
+  [Micro-step 7405] Loss: 7.0714 | Speed:  196.7 tok/s
+  [Micro-step 7406] Loss: 6.7436 | Speed:  235.9 tok/s
+  [Micro-step 7407] Loss: 7.7337 | Speed:  219.4 tok/s
+Step 926/3250 (uStep 7408) | Loss: 6.6342 | GradNorm: 480049.406 | LR_scale: 0.833 | Speed:  215.2 tok/s | RSS:  919.4 MB
+  [Micro-step 7409] Loss: 6.6889 | Speed:  239.8 tok/s
+  [Micro-step 7410] Loss: 7.2878 | Speed:  191.8 tok/s
+  [Micro-step 7411] Loss: 6.9354 | Speed:  191.5 tok/s
+  [Micro-step 7412] Loss: 6.1066 | Speed:  240.0 tok/s
+  [Micro-step 7413] Loss: 7.0309 | Speed:  211.8 tok/s
+  [Micro-step 7414] Loss: 7.0358 | Speed:  228.9 tok/s
+  [Micro-step 7415] Loss: 6.8083 | Speed:  202.3 tok/s
+Step 927/3250 (uStep 7416) | Loss: 7.1765 | GradNorm: 338839.344 | LR_scale: 0.832 | Speed:  202.9 tok/s | RSS:  909.4 MB
+  [Micro-step 7417] Loss: 6.8323 | Speed:  216.5 tok/s
+  [Micro-step 7418] Loss: 7.2380 | Speed:  224.3 tok/s
+  [Micro-step 7419] Loss: 6.8394 | Speed:  193.3 tok/s
+  [Micro-step 7420] Loss: 6.6901 | Speed:  214.5 tok/s
+  [Micro-step 7421] Loss: 6.6584 | Speed:  218.6 tok/s
+  [Micro-step 7422] Loss: 7.0181 | Speed:  244.2 tok/s
+  [Micro-step 7423] Loss: 6.4726 | Speed:  219.0 tok/s
+Step 928/3250 (uStep 7424) | Loss: 6.9319 | GradNorm: 242667.484 | LR_scale: 0.832 | Speed:  206.2 tok/s | RSS:  909.4 MB
+  [Micro-step 7425] Loss: 6.5863 | Speed:  238.0 tok/s
+  [Micro-step 7426] Loss: 6.3210 | Speed:  244.8 tok/s
+  [Micro-step 7427] Loss: 6.9505 | Speed:  237.4 tok/s
+  [Micro-step 7428] Loss: 6.9498 | Speed:  234.3 tok/s
+  [Micro-step 7429] Loss: 7.1329 | Speed:  218.9 tok/s
+  [Micro-step 7430] Loss: 6.4511 | Speed:  203.1 tok/s
+  [Micro-step 7431] Loss: 6.5892 | Speed:  191.7 tok/s
+Step 929/3250 (uStep 7432) | Loss: 6.5993 | GradNorm: 410242.062 | LR_scale: 0.832 | Speed:  203.8 tok/s | RSS:  909.4 MB
+  [Micro-step 7433] Loss: 7.2482 | Speed:  216.0 tok/s
+  [Micro-step 7434] Loss: 7.2225 | Speed:  227.9 tok/s
+  [Micro-step 7435] Loss: 6.5460 | Speed:  230.0 tok/s
+  [Micro-step 7436] Loss: 6.8662 | Speed:  230.9 tok/s
+  [Micro-step 7437] Loss: 6.9504 | Speed:  219.4 tok/s
+  [Micro-step 7438] Loss: 6.9214 | Speed:  235.3 tok/s
+  [Micro-step 7439] Loss: 6.5353 | Speed:  236.1 tok/s
+Step 930/3250 (uStep 7440) | Loss: 6.6322 | GradNorm: 916634.750 | LR_scale: 0.831 | Speed:  211.7 tok/s | RSS:  924.4 MB
+  [Micro-step 7441] Loss: 7.1874 | Speed:  200.8 tok/s
+  [Micro-step 7442] Loss: 6.5425 | Speed:  211.1 tok/s
+  [Micro-step 7443] Loss: 6.7364 | Speed:  219.4 tok/s
+  [Micro-step 7444] Loss: 6.7103 | Speed:  220.5 tok/s
+  [Micro-step 7445] Loss: 7.1973 | Speed:  193.9 tok/s
+  [Micro-step 7446] Loss: 6.9616 | Speed:  245.6 tok/s
+  [Micro-step 7447] Loss: 6.4893 | Speed:  228.2 tok/s
+Step 931/3250 (uStep 7448) | Loss: 6.9355 | GradNorm: 424264.594 | LR_scale: 0.831 | Speed:  219.9 tok/s | RSS:  934.4 MB
+  [Micro-step 7449] Loss: 6.5620 | Speed:  237.5 tok/s
+  [Micro-step 7450] Loss: 6.8991 | Speed:  212.3 tok/s
+  [Micro-step 7451] Loss: 6.8401 | Speed:  198.2 tok/s
+  [Micro-step 7452] Loss: 6.6892 | Speed:  194.4 tok/s
+  [Micro-step 7453] Loss: 6.5704 | Speed:  248.3 tok/s
+  [Micro-step 7454] Loss: 6.3394 | Speed:  227.0 tok/s
+  [Micro-step 7455] Loss: 6.5341 | Speed:  244.1 tok/s
+Step 932/3250 (uStep 7456) | Loss: 7.1211 | GradNorm: 3251821.500 | LR_scale: 0.831 | Speed:  217.6 tok/s | RSS:  944.4 MB
+  [Micro-step 7457] Loss: 6.9400 | Speed:  233.9 tok/s
+  [Micro-step 7458] Loss: 6.5808 | Speed:  206.9 tok/s
+  [Micro-step 7459] Loss: 6.3407 | Speed:  207.3 tok/s
+  [Micro-step 7460] Loss: 6.5333 | Speed:  195.4 tok/s
+  [Micro-step 7461] Loss: 7.1699 | Speed:  217.4 tok/s
+  [Micro-step 7462] Loss: 6.9779 | Speed:  207.9 tok/s
+  [Micro-step 7463] Loss: 6.6850 | Speed:  234.1 tok/s
+Step 933/3250 (uStep 7464) | Loss: 7.1706 | GradNorm: 3235716.250 | LR_scale: 0.830 | Speed:  193.2 tok/s | RSS:  934.4 MB
+  [Micro-step 7465] Loss: 6.7839 | Speed:  220.7 tok/s
+  [Micro-step 7466] Loss: 7.1020 | Speed:  196.0 tok/s
+  [Micro-step 7467] Loss: 6.8143 | Speed:  212.9 tok/s
+  [Micro-step 7468] Loss: 6.7568 | Speed:  230.4 tok/s
+  [Micro-step 7469] Loss: 7.0715 | Speed:  255.7 tok/s
+  [Micro-step 7470] Loss: 6.7864 | Speed:  173.5 tok/s
+  [Micro-step 7471] Loss: 6.6821 | Speed:  235.1 tok/s
+Step 934/3250 (uStep 7472) | Loss: 6.8468 | GradNorm: 3084928.750 | LR_scale: 0.830 | Speed:  222.6 tok/s | RSS:  909.4 MB
+  [Micro-step 7473] Loss: 6.7675 | Speed:  226.5 tok/s
+  [Micro-step 7474] Loss: 6.6992 | Speed:  205.8 tok/s
+  [Micro-step 7475] Loss: 6.7290 | Speed:  231.5 tok/s
+  [Micro-step 7476] Loss: 6.5903 | Speed:  231.7 tok/s
+  [Micro-step 7477] Loss: 6.4190 | Speed:  231.9 tok/s
+  [Micro-step 7478] Loss: 7.1090 | Speed:  193.4 tok/s
+  [Micro-step 7479] Loss: 7.1237 | Speed:  230.0 tok/s
+Step 935/3250 (uStep 7480) | Loss: 7.3749 | GradNorm: 633746.062 | LR_scale: 0.830 | Speed:  236.1 tok/s | RSS:  976.3 MB
+  [Micro-step 7481] Loss: 6.6003 | Speed:  200.1 tok/s
+  [Micro-step 7482] Loss: 6.6509 | Speed:  211.1 tok/s
+  [Micro-step 7483] Loss: 7.0696 | Speed:  190.1 tok/s
+  [Micro-step 7484] Loss: 6.9432 | Speed:  194.7 tok/s
+  [Micro-step 7485] Loss: 6.7534 | Speed:  213.5 tok/s
+  [Micro-step 7486] Loss: 7.4047 | Speed:  240.3 tok/s
+  [Micro-step 7487] Loss: 7.0511 | Speed:  225.4 tok/s
+Step 936/3250 (uStep 7488) | Loss: 7.0739 | GradNorm: 463459.312 | LR_scale: 0.829 | Speed:  191.3 tok/s | RSS:  931.5 MB
+  [Micro-step 7489] Loss: 6.9014 | Speed:  217.6 tok/s
+  [Micro-step 7490] Loss: 7.0647 | Speed:  230.7 tok/s
+  [Micro-step 7491] Loss: 6.5820 | Speed:  249.4 tok/s
+  [Micro-step 7492] Loss: 7.2632 | Speed:  224.4 tok/s
+  [Micro-step 7493] Loss: 6.7308 | Speed:  217.0 tok/s
+  [Micro-step 7494] Loss: 6.6319 | Speed:  248.7 tok/s
+  [Micro-step 7495] Loss: 6.6380 | Speed:  200.0 tok/s
+Step 937/3250 (uStep 7496) | Loss: 6.9857 | GradNorm: 352488.562 | LR_scale: 0.829 | Speed:  192.1 tok/s | RSS:  909.4 MB
+  [Micro-step 7497] Loss: 6.6226 | Speed:  205.5 tok/s
+  [Micro-step 7498] Loss: 7.4833 | Speed:  189.0 tok/s
+  [Micro-step 7499] Loss: 6.5318 | Speed:  203.2 tok/s
+  [Micro-step 7500] Loss: 6.4497 | Speed:  240.0 tok/s
+  [Micro-step 7501] Loss: 6.8362 | Speed:  232.5 tok/s
+  [Micro-step 7502] Loss: 6.8601 | Speed:  244.3 tok/s
+  [Micro-step 7503] Loss: 6.8068 | Speed:  242.5 tok/s
+Step 938/3250 (uStep 7504) | Loss: 6.9093 | GradNorm: 445862.812 | LR_scale: 0.829 | Speed:  197.0 tok/s | RSS:  972.9 MB
+  [Micro-step 7505] Loss: 7.5257 | Speed:  229.4 tok/s
+  [Micro-step 7506] Loss: 7.1342 | Speed:  195.5 tok/s
+  [Micro-step 7507] Loss: 7.1480 | Speed:  263.2 tok/s
+  [Micro-step 7508] Loss: 7.1272 | Speed:  240.9 tok/s
+  [Micro-step 7509] Loss: 6.4518 | Speed:  263.5 tok/s
+  [Micro-step 7510] Loss: 7.2146 | Speed:  207.3 tok/s
+  [Micro-step 7511] Loss: 6.8532 | Speed:  208.3 tok/s
+Step 939/3250 (uStep 7512) | Loss: 6.9574 | GradNorm: 401315.875 | LR_scale: 0.828 | Speed:  184.1 tok/s | RSS:  952.2 MB
+  [Micro-step 7513] Loss: 6.2415 | Speed:  227.7 tok/s
+  [Micro-step 7514] Loss: 6.9048 | Speed:  214.1 tok/s
+  [Micro-step 7515] Loss: 7.3350 | Speed:  243.5 tok/s
+  [Micro-step 7516] Loss: 6.8908 | Speed:  194.5 tok/s
+  [Micro-step 7517] Loss: 6.9631 | Speed:  195.7 tok/s
+  [Micro-step 7518] Loss: 7.1879 | Speed:  225.0 tok/s
+  [Micro-step 7519] Loss: 6.9350 | Speed:  220.5 tok/s
+Step 940/3250 (uStep 7520) | Loss: 6.3122 | GradNorm: 519881.031 | LR_scale: 0.828 | Speed:  199.3 tok/s | RSS:  944.8 MB
+  [Micro-step 7521] Loss: 6.8578 | Speed:  236.4 tok/s
+  [Micro-step 7522] Loss: 7.0701 | Speed:  229.0 tok/s
+  [Micro-step 7523] Loss: 7.0587 | Speed:  215.4 tok/s
+  [Micro-step 7524] Loss: 6.5386 | Speed:  212.1 tok/s
+  [Micro-step 7525] Loss: 7.2506 | Speed:  200.0 tok/s
+  [Micro-step 7526] Loss: 7.2832 | Speed:  225.6 tok/s
+  [Micro-step 7527] Loss: 6.9238 | Speed:  230.9 tok/s
+Step 941/3250 (uStep 7528) | Loss: 6.6720 | GradNorm: 1123262.250 | LR_scale: 0.828 | Speed:  242.8 tok/s | RSS:  909.4 MB
+  [Micro-step 7529] Loss: 6.7325 | Speed:  187.0 tok/s
+  [Micro-step 7530] Loss: 6.6934 | Speed:  220.9 tok/s
+  [Micro-step 7531] Loss: 6.9086 | Speed:  247.3 tok/s
+  [Micro-step 7532] Loss: 6.6281 | Speed:  206.3 tok/s
+  [Micro-step 7533] Loss: 6.8439 | Speed:  232.9 tok/s
+  [Micro-step 7534] Loss: 7.1833 | Speed:  188.0 tok/s
+  [Micro-step 7535] Loss: 6.9469 | Speed:  229.2 tok/s
+Step 942/3250 (uStep 7536) | Loss: 6.6361 | GradNorm: 468451.906 | LR_scale: 0.827 | Speed:  213.4 tok/s | RSS:  909.4 MB
+  [Micro-step 7537] Loss: 7.2332 | Speed:  218.1 tok/s
+  [Micro-step 7538] Loss: 6.7255 | Speed:  231.2 tok/s
+  [Micro-step 7539] Loss: 7.0363 | Speed:  230.9 tok/s
+  [Micro-step 7540] Loss: 6.6069 | Speed:  232.5 tok/s
+  [Micro-step 7541] Loss: 7.1040 | Speed:  227.1 tok/s
+  [Micro-step 7542] Loss: 6.7345 | Speed:  233.1 tok/s
+  [Micro-step 7543] Loss: 7.0374 | Speed:  200.5 tok/s
+Step 943/3250 (uStep 7544) | Loss: 6.6968 | GradNorm: 1685162.625 | LR_scale: 0.827 | Speed:  222.7 tok/s | RSS:  942.7 MB
+  [Micro-step 7545] Loss: 6.9562 | Speed:  227.1 tok/s
+  [Micro-step 7546] Loss: 6.6204 | Speed:  207.3 tok/s
+  [Micro-step 7547] Loss: 7.1835 | Speed:  217.1 tok/s
+  [Micro-step 7548] Loss: 6.6486 | Speed:  217.6 tok/s
+  [Micro-step 7549] Loss: 6.5129 | Speed:  204.0 tok/s
+  [Micro-step 7550] Loss: 7.3960 | Speed:  222.0 tok/s
+  [Micro-step 7551] Loss: 7.1972 | Speed:  228.4 tok/s
+Step 944/3250 (uStep 7552) | Loss: 7.3637 | GradNorm: 329056.344 | LR_scale: 0.827 | Speed:  220.4 tok/s | RSS:  924.2 MB
+  [Micro-step 7553] Loss: 7.3405 | Speed:  223.0 tok/s
+  [Micro-step 7554] Loss: 6.7198 | Speed:  233.6 tok/s
+  [Micro-step 7555] Loss: 6.6380 | Speed:  218.8 tok/s
+  [Micro-step 7556] Loss: 7.0373 | Speed:  228.9 tok/s
+  [Micro-step 7557] Loss: 7.1395 | Speed:  217.1 tok/s
+  [Micro-step 7558] Loss: 6.6360 | Speed:  209.2 tok/s
+  [Micro-step 7559] Loss: 7.2188 | Speed:  198.7 tok/s
+Step 945/3250 (uStep 7560) | Loss: 6.3361 | GradNorm: 383273.250 | LR_scale: 0.826 | Speed:  200.1 tok/s | RSS:  909.4 MB
+  [Micro-step 7561] Loss: 7.1945 | Speed:  224.7 tok/s
+  [Micro-step 7562] Loss: 6.8981 | Speed:  227.2 tok/s
+  [Micro-step 7563] Loss: 6.4376 | Speed:  242.5 tok/s
+  [Micro-step 7564] Loss: 6.8333 | Speed:  225.2 tok/s
+  [Micro-step 7565] Loss: 6.6174 | Speed:  180.1 tok/s
+  [Micro-step 7566] Loss: 6.1170 | Speed:  233.7 tok/s
+  [Micro-step 7567] Loss: 7.0719 | Speed:  190.3 tok/s
+Step 946/3250 (uStep 7568) | Loss: 7.1095 | GradNorm: 559859.062 | LR_scale: 0.826 | Speed:  201.8 tok/s | RSS:  934.4 MB
+  [Micro-step 7569] Loss: 6.5255 | Speed:  235.1 tok/s
+  [Micro-step 7570] Loss: 7.0735 | Speed:  218.3 tok/s
+  [Micro-step 7571] Loss: 6.5084 | Speed:  200.5 tok/s
+  [Micro-step 7572] Loss: 6.6117 | Speed:  207.0 tok/s
+  [Micro-step 7573] Loss: 7.1102 | Speed:  215.6 tok/s
+  [Micro-step 7574] Loss: 6.6881 | Speed:  210.0 tok/s
+  [Micro-step 7575] Loss: 6.5885 | Speed:  190.5 tok/s
+Step 947/3250 (uStep 7576) | Loss: 6.8804 | GradNorm: 259324.750 | LR_scale: 0.825 | Speed:  234.3 tok/s | RSS:  938.2 MB
+  [Micro-step 7577] Loss: 6.7775 | Speed:  215.8 tok/s
+  [Micro-step 7578] Loss: 6.9757 | Speed:  210.0 tok/s
+  [Micro-step 7579] Loss: 6.7188 | Speed:  193.7 tok/s
+  [Micro-step 7580] Loss: 6.3382 | Speed:  243.9 tok/s
+  [Micro-step 7581] Loss: 6.9743 | Speed:  213.1 tok/s
+  [Micro-step 7582] Loss: 6.0644 | Speed:  226.9 tok/s
+  [Micro-step 7583] Loss: 6.9221 | Speed:  204.2 tok/s
+Step 948/3250 (uStep 7584) | Loss: 6.3260 | GradNorm: 1800836.875 | LR_scale: 0.825 | Speed:  250.1 tok/s | RSS:  942.5 MB
+  [Micro-step 7585] Loss: 6.5419 | Speed:  215.6 tok/s
+  [Micro-step 7586] Loss: 6.9544 | Speed:  219.2 tok/s
+  [Micro-step 7587] Loss: 6.8767 | Speed:  214.6 tok/s
+  [Micro-step 7588] Loss: 6.6827 | Speed:  252.7 tok/s
+  [Micro-step 7589] Loss: 6.7218 | Speed:  191.1 tok/s
+  [Micro-step 7590] Loss: 6.7227 | Speed:  216.0 tok/s
+  [Micro-step 7591] Loss: 6.2373 | Speed:  216.5 tok/s
+Step 949/3250 (uStep 7592) | Loss: 6.3658 | GradNorm: 2160945.250 | LR_scale: 0.825 | Speed:  262.8 tok/s | RSS:  939.9 MB
+  [Micro-step 7593] Loss: 6.7473 | Speed:  228.0 tok/s
+  [Micro-step 7594] Loss: 7.0018 | Speed:  228.1 tok/s
+  [Micro-step 7595] Loss: 6.8418 | Speed:  228.2 tok/s
+  [Micro-step 7596] Loss: 7.1523 | Speed:  231.6 tok/s
+  [Micro-step 7597] Loss: 6.8555 | Speed:  207.0 tok/s
+  [Micro-step 7598] Loss: 6.6436 | Speed:  245.2 tok/s
+  [Micro-step 7599] Loss: 7.1722 | Speed:  206.2 tok/s
+Step 950/3250 (uStep 7600) | Loss: 6.8896 | GradNorm: 530930.312 | LR_scale: 0.824 | Speed:  232.0 tok/s | RSS:  925.5 MB
+  --> [Validation] Val Loss: 6.7866
+  --> [Sample Story] "Once upon a time, Lily the C*..cing
+ andian with.
+,. and(in), in)}(
+ can. the
+* for\* to\ in it(
+ 
+ the$.(  of"
+  --> [Sample Reason] "User: Is a cat an animal?
+
+Assistant:ingee)-$$  step(.it( :: 
+a:-1.: -:\( ."
+  --> [Checkpoint] Saved atomic checkpoint to /home/duoneural/srsn_ryzen/checkpoints/srsn_step0950.pt
+  [Micro-step 7601] Loss: 6.6051 | Speed:  214.5 tok/s
+  [Micro-step 7602] Loss: 6.7760 | Speed:  240.9 tok/s
+  [Micro-step 7603] Loss: 7.0898 | Speed:  194.2 tok/s
+  [Micro-step 7604] Loss: 6.9822 | Speed:  221.7 tok/s
+  [Micro-step 7605] Loss: 7.3959 | Speed:  203.8 tok/s
+  [Micro-step 7606] Loss: 6.8828 | Speed:  197.1 tok/s
+  [Micro-step 7607] Loss: 6.6933 | Speed:  228.4 tok/s
+Step 951/3250 (uStep 7608) | Loss: 6.8368 | GradNorm: 764220.875 | LR_scale: 0.824 | Speed:  226.3 tok/s | RSS:  909.4 MB
+  [Micro-step 7609] Loss: 7.1731 | Speed:  229.8 tok/s
+  [Micro-step 7610] Loss: 6.8763 | Speed:  235.3 tok/s
+  [Micro-step 7611] Loss: 6.5583 | Speed:  212.3 tok/s
+  [Micro-step 7612] Loss: 6.8412 | Speed:  198.8 tok/s
+  [Micro-step 7613] Loss: 6.9903 | Speed:  209.9 tok/s
+  [Micro-step 7614] Loss: 7.0637 | Speed:  190.2 tok/s
+  [Micro-step 7615] Loss: 7.0157 | Speed:  212.8 tok/s
+Step 952/3250 (uStep 7616) | Loss: 6.7892 | GradNorm: 1691068.750 | LR_scale: 0.824 | Speed:  219.0 tok/s | RSS:  929.3 MB
+  [Micro-step 7617] Loss: 6.7027 | Speed:  199.5 tok/s
+  [Micro-step 7618] Loss: 6.8032 | Speed:  214.6 tok/s
+  [Micro-step 7619] Loss: 7.0739 | Speed:  200.2 tok/s
+  [Micro-step 7620] Loss: 6.8662 | Speed:  241.4 tok/s
+  [Micro-step 7621] Loss: 6.5412 | Speed:  190.3 tok/s
+  [Micro-step 7622] Loss: 7.1429 | Speed:  221.1 tok/s
+  [Micro-step 7623] Loss: 6.6589 | Speed:  229.6 tok/s
+Step 953/3250 (uStep 7624) | Loss: 6.6806 | GradNorm: 538117.375 | LR_scale: 0.823 | Speed:  202.8 tok/s | RSS:  909.4 MB
+  [Micro-step 7625] Loss: 6.9283 | Speed:  211.8 tok/s
+  [Micro-step 7626] Loss: 6.5742 | Speed:  214.3 tok/s
+  [Micro-step 7627] Loss: 6.8658 | Speed:  242.8 tok/s
+  [Micro-step 7628] Loss: 6.9758 | Speed:  186.6 tok/s
+  [Micro-step 7629] Loss: 6.9698 | Speed:  223.3 tok/s
+  [Micro-step 7630] Loss: 6.8093 | Speed:  260.3 tok/s
+  [Micro-step 7631] Loss: 6.9176 | Speed:  195.8 tok/s
+Step 954/3250 (uStep 7632) | Loss: 6.6891 | GradNorm: 440211.094 | LR_scale: 0.823 | Speed:  238.9 tok/s | RSS:  909.4 MB
+  [Micro-step 7633] Loss: 6.8004 | Speed:  220.4 tok/s
+  [Micro-step 7634] Loss: 6.8705 | Speed:  220.6 tok/s
+  [Micro-step 7635] Loss: 7.0512 | Speed:  225.8 tok/s
+  [Micro-step 7636] Loss: 6.9301 | Speed:  212.5 tok/s
+  [Micro-step 7637] Loss: 6.7602 | Speed:  208.1 tok/s
+  [Micro-step 7638] Loss: 6.5664 | Speed:  231.8 tok/s
+  [Micro-step 7639] Loss: 6.8420 | Speed:  184.4 tok/s
+Step 955/3250 (uStep 7640) | Loss: 7.0205 | GradNorm: 195067.312 | LR_scale: 0.823 | Speed:  240.0 tok/s | RSS:  929.2 MB
+  [Micro-step 7641] Loss: 6.6475 | Speed:  232.8 tok/s
+  [Micro-step 7642] Loss: 6.7669 | Speed:  240.1 tok/s
+  [Micro-step 7643] Loss: 6.9307 | Speed:  199.4 tok/s
+  [Micro-step 7644] Loss: 7.0873 | Speed:  223.4 tok/s
+  [Micro-step 7645] Loss: 6.9142 | Speed:  223.1 tok/s
+  [Micro-step 7646] Loss: 6.8547 | Speed:  207.3 tok/s
+  [Micro-step 7647] Loss: 6.8328 | Speed:  203.2 tok/s
+Step 956/3250 (uStep 7648) | Loss: 6.8408 | GradNorm: 277768.438 | LR_scale: 0.822 | Speed:  240.1 tok/s | RSS:  909.4 MB
+  [Micro-step 7649] Loss: 7.1453 | Speed:  226.2 tok/s
+  [Micro-step 7650] Loss: 6.9663 | Speed:  225.7 tok/s
+  [Micro-step 7651] Loss: 7.1185 | Speed:  185.5 tok/s
+  [Micro-step 7652] Loss: 7.1115 | Speed:  213.2 tok/s
+  [Micro-step 7653] Loss: 6.5059 | Speed:  203.0 tok/s
+  [Micro-step 7654] Loss: 7.2609 | Speed:  260.2 tok/s
+  [Micro-step 7655] Loss: 7.2137 | Speed:  195.7 tok/s
+Step 957/3250 (uStep 7656) | Loss: 6.7659 | GradNorm: 146034.031 | LR_scale: 0.822 | Speed:  207.6 tok/s | RSS:  927.7 MB
+  [Micro-step 7657] Loss: 7.0780 | Speed:  221.2 tok/s
+  [Micro-step 7658] Loss: 6.8987 | Speed:  218.7 tok/s
+  [Micro-step 7659] Loss: 7.0476 | Speed:  230.6 tok/s
+  [Micro-step 7660] Loss: 7.1094 | Speed:  209.7 tok/s
+  [Micro-step 7661] Loss: 7.2684 | Speed:  225.3 tok/s
+  [Micro-step 7662] Loss: 7.0224 | Speed:  210.2 tok/s
+  [Micro-step 7663] Loss: 6.7162 | Speed:  197.2 tok/s
+Step 958/3250 (uStep 7664) | Loss: 6.7587 | GradNorm: 225529.328 | LR_scale: 0.822 | Speed:  245.2 tok/s | RSS:  909.4 MB
+  [Micro-step 7665] Loss: 6.3445 | Speed:  220.9 tok/s
+  [Micro-step 7666] Loss: 7.1663 | Speed:  187.0 tok/s
+  [Micro-step 7667] Loss: 7.3361 | Speed:  210.9 tok/s
+  [Micro-step 7668] Loss: 6.5726 | Speed:  218.8 tok/s
+  [Micro-step 7669] Loss: 7.1067 | Speed:  202.7 tok/s
+  [Micro-step 7670] Loss: 7.0107 | Speed:  250.9 tok/s
+  [Micro-step 7671] Loss: 6.5777 | Speed:  196.3 tok/s
+Step 959/3250 (uStep 7672) | Loss: 6.7832 | GradNorm: 345016.656 | LR_scale: 0.821 | Speed:  218.3 tok/s | RSS:  934.2 MB
+  [Micro-step 7673] Loss: 6.8055 | Speed:  200.9 tok/s
+  [Micro-step 7674] Loss: 6.6520 | Speed:  212.7 tok/s
+  [Micro-step 7675] Loss: 6.7640 | Speed:  232.2 tok/s
+  [Micro-step 7676] Loss: 7.1588 | Speed:  249.1 tok/s
+  [Micro-step 7677] Loss: 6.7312 | Speed:  214.8 tok/s
+  [Micro-step 7678] Loss: 6.9049 | Speed:  226.7 tok/s
+  [Micro-step 7679] Loss: 7.1964 | Speed:  219.4 tok/s
+Step 960/3250 (uStep 7680) | Loss: 6.7513 | GradNorm: 694962.625 | LR_scale: 0.821 | Speed:  205.8 tok/s | RSS:  919.4 MB
+  [Micro-step 7681] Loss: 6.4382 | Speed:  216.1 tok/s
+  [Micro-step 7682] Loss: 6.8591 | Speed:  230.2 tok/s
+  [Micro-step 7683] Loss: 7.2247 | Speed:  220.5 tok/s
+  [Micro-step 7684] Loss: 7.0557 | Speed:  225.0 tok/s
+  [Micro-step 7685] Loss: 7.7260 | Speed:  219.4 tok/s
+  [Micro-step 7686] Loss: 7.0177 | Speed:  249.9 tok/s
+  [Micro-step 7687] Loss: 6.7103 | Speed:  231.4 tok/s
+Step 961/3250 (uStep 7688) | Loss: 6.5371 | GradNorm: 184812.375 | LR_scale: 0.821 | Speed:  228.0 tok/s | RSS:  952.7 MB
+  [Micro-step 7689] Loss: 7.0032 | Speed:  236.0 tok/s
+  [Micro-step 7690] Loss: 6.9216 | Speed:  210.5 tok/s
+  [Micro-step 7691] Loss: 6.7689 | Speed:  246.5 tok/s
+  [Micro-step 7692] Loss: 7.0065 | Speed:  195.3 tok/s
+  [Micro-step 7693] Loss: 7.7669 | Speed:  218.1 tok/s
+  [Micro-step 7694] Loss: 6.9161 | Speed:  206.9 tok/s
+  [Micro-step 7695] Loss: 6.8683 | Speed:  226.4 tok/s
+Step 962/3250 (uStep 7696) | Loss: 6.9667 | GradNorm: 364239.094 | LR_scale: 0.820 | Speed:  201.2 tok/s | RSS:  927.5 MB
+  [Micro-step 7697] Loss: 7.1435 | Speed:  209.1 tok/s
+  [Micro-step 7698] Loss: 7.0076 | Speed:  232.5 tok/s
+  [Micro-step 7699] Loss: 7.1619 | Speed:  234.1 tok/s
+  [Micro-step 7700] Loss: 7.0161 | Speed:  195.6 tok/s
+  [Micro-step 7701] Loss: 7.1876 | Speed:  229.5 tok/s
+  [Micro-step 7702] Loss: 6.9277 | Speed:  213.3 tok/s
+  [Micro-step 7703] Loss: 6.7906 | Speed:  225.0 tok/s
+Step 963/3250 (uStep 7704) | Loss: 7.1851 | GradNorm: 289186.656 | LR_scale: 0.820 | Speed:  191.1 tok/s | RSS:  939.5 MB
+  [Micro-step 7705] Loss: 6.6114 | Speed:  219.1 tok/s
+  [Micro-step 7706] Loss: 7.2732 | Speed:  237.0 tok/s
+  [Micro-step 7707] Loss: 6.6315 | Speed:  193.8 tok/s
+  [Micro-step 7708] Loss: 6.7683 | Speed:  210.9 tok/s
+  [Micro-step 7709] Loss: 6.7853 | Speed:  249.9 tok/s
+  [Micro-step 7710] Loss: 7.1380 | Speed:  209.4 tok/s
+  [Micro-step 7711] Loss: 6.5456 | Speed:  201.7 tok/s
+Step 964/3250 (uStep 7712) | Loss: 6.9997 | GradNorm: 290956.062 | LR_scale: 0.820 | Speed:  203.5 tok/s | RSS:  909.4 MB
+  [Micro-step 7713] Loss: 7.1275 | Speed:  209.1 tok/s
+  [Micro-step 7714] Loss: 7.1833 | Speed:  218.6 tok/s
+  [Micro-step 7715] Loss: 7.1734 | Speed:  239.9 tok/s
+  [Micro-step 7716] Loss: 7.4280 | Speed:  230.1 tok/s
+  [Micro-step 7717] Loss: 6.5327 | Speed:  207.0 tok/s
+  [Micro-step 7718] Loss: 6.7395 | Speed:  199.8 tok/s
+  [Micro-step 7719] Loss: 6.9094 | Speed:  219.4 tok/s
+Step 965/3250 (uStep 7720) | Loss: 6.3841 | GradNorm: 521096.656 | LR_scale: 0.819 | Speed:  215.6 tok/s | RSS:  919.4 MB
+  [Micro-step 7721] Loss: 6.8895 | Speed:  184.9 tok/s
+  [Micro-step 7722] Loss: 6.9569 | Speed:  210.4 tok/s
+  [Micro-step 7723] Loss: 6.9986 | Speed:  203.1 tok/s
+  [Micro-step 7724] Loss: 6.6993 | Speed:  235.3 tok/s
+  [Micro-step 7725] Loss: 7.1159 | Speed:  219.4 tok/s
+  [Micro-step 7726] Loss: 6.9186 | Speed:  244.7 tok/s
+  [Micro-step 7727] Loss: 7.0577 | Speed:  227.7 tok/s
+Step 966/3250 (uStep 7728) | Loss: 7.0461 | GradNorm: 275685.812 | LR_scale: 0.819 | Speed:  198.9 tok/s | RSS:  939.2 MB
+  [Micro-step 7729] Loss: 6.9836 | Speed:  202.0 tok/s
+  [Micro-step 7730] Loss: 7.2350 | Speed:  202.9 tok/s
+  [Micro-step 7731] Loss: 6.2960 | Speed:  218.4 tok/s
+  [Micro-step 7732] Loss: 6.8126 | Speed:  231.0 tok/s
+  [Micro-step 7733] Loss: 7.0819 | Speed:  236.7 tok/s
+  [Micro-step 7734] Loss: 6.9642 | Speed:  235.5 tok/s
+  [Micro-step 7735] Loss: 6.6949 | Speed:  201.3 tok/s
+Step 967/3250 (uStep 7736) | Loss: 6.8502 | GradNorm: 67784.438 | LR_scale: 0.819 | Speed:  210.0 tok/s | RSS:  922.5 MB
+  [Micro-step 7737] Loss: 7.1030 | Speed:  210.0 tok/s
+  [Micro-step 7738] Loss: 6.6142 | Speed:  210.6 tok/s
+  [Micro-step 7739] Loss: 6.7483 | Speed:  221.8 tok/s
+  [Micro-step 7740] Loss: 6.4804 | Speed:  227.6 tok/s
+  [Micro-step 7741] Loss: 6.8982 | Speed:  240.6 tok/s
+  [Micro-step 7742] Loss: 6.9683 | Speed:  235.8 tok/s
+  [Micro-step 7743] Loss: 6.8877 | Speed:  215.6 tok/s
+Step 968/3250 (uStep 7744) | Loss: 7.1002 | GradNorm: 458245.188 | LR_scale: 0.818 | Speed:  240.8 tok/s | RSS:  909.4 MB
+  [Micro-step 7745] Loss: 6.5863 | Speed:  193.4 tok/s
+  [Micro-step 7746] Loss: 6.9158 | Speed:  187.9 tok/s
+  [Micro-step 7747] Loss: 6.6599 | Speed:  231.0 tok/s
+  [Micro-step 7748] Loss: 6.6996 | Speed:  232.4 tok/s
+  [Micro-step 7749] Loss: 6.8659 | Speed:  236.2 tok/s
+  [Micro-step 7750] Loss: 6.7748 | Speed:  234.0 tok/s
+  [Micro-step 7751] Loss: 6.9813 | Speed:  263.0 tok/s
+Step 969/3250 (uStep 7752) | Loss: 6.8605 | GradNorm: 422113.125 | LR_scale: 0.818 | Speed:  208.8 tok/s | RSS:  924.4 MB
+  [Micro-step 7753] Loss: 6.9693 | Speed:  193.2 tok/s
+  [Micro-step 7754] Loss: 7.0231 | Speed:  235.6 tok/s
+  [Micro-step 7755] Loss: 6.8928 | Speed:  232.4 tok/s
+  [Micro-step 7756] Loss: 6.7275 | Speed:  225.5 tok/s
+  [Micro-step 7757] Loss: 7.0586 | Speed:  259.1 tok/s
+  [Micro-step 7758] Loss: 7.0151 | Speed:  229.7 tok/s
+  [Micro-step 7759] Loss: 7.4526 | Speed:  241.2 tok/s
+Step 970/3250 (uStep 7760) | Loss: 6.5234 | GradNorm: 368595.781 | LR_scale: 0.817 | Speed:  209.0 tok/s | RSS:  909.4 MB
+  [Micro-step 7761] Loss: 7.0220 | Speed:  253.1 tok/s
+  [Micro-step 7762] Loss: 6.8066 | Speed:  221.6 tok/s
+  [Micro-step 7763] Loss: 7.1636 | Speed:  188.5 tok/s
+  [Micro-step 7764] Loss: 6.8192 | Speed:  212.8 tok/s
+  [Micro-step 7765] Loss: 6.8019 | Speed:  229.3 tok/s
+  [Micro-step 7766] Loss: 6.7335 | Speed:  223.6 tok/s
+  [Micro-step 7767] Loss: 6.8226 | Speed:  231.3 tok/s
+Step 971/3250 (uStep 7768) | Loss: 7.2702 | GradNorm: 161204.625 | LR_scale: 0.817 | Speed:  226.5 tok/s | RSS:  942.6 MB
+  [Micro-step 7769] Loss: 6.7413 | Speed:  220.7 tok/s
+  [Micro-step 7770] Loss: 6.7527 | Speed:  228.7 tok/s
+  [Micro-step 7771] Loss: 6.6608 | Speed:  225.3 tok/s
+  [Micro-step 7772] Loss: 7.0072 | Speed:  227.1 tok/s
+  [Micro-step 7773] Loss: 6.7309 | Speed:  202.9 tok/s
+  [Micro-step 7774] Loss: 6.7139 | Speed:  237.3 tok/s
+  [Micro-step 7775] Loss: 7.0826 | Speed:  207.9 tok/s
+Step 972/3250 (uStep 7776) | Loss: 6.4147 | GradNorm: 268954.781 | LR_scale: 0.817 | Speed:  203.5 tok/s | RSS:  919.8 MB
+  [Micro-step 7777] Loss: 7.2516 | Speed:  242.3 tok/s
+  [Micro-step 7778] Loss: 6.9305 | Speed:  217.3 tok/s
+  [Micro-step 7779] Loss: 6.8158 | Speed:  210.4 tok/s
+  [Micro-step 7780] Loss: 6.4351 | Speed:  207.0 tok/s
+  [Micro-step 7781] Loss: 6.6925 | Speed:  203.1 tok/s
+  [Micro-step 7782] Loss: 6.9076 | Speed:  245.3 tok/s
+  [Micro-step 7783] Loss: 6.9565 | Speed:  198.5 tok/s
+Step 973/3250 (uStep 7784) | Loss: 6.9335 | GradNorm: 113261.445 | LR_scale: 0.816 | Speed:  206.0 tok/s | RSS:  939.4 MB
+  [Micro-step 7785] Loss: 6.4877 | Speed:  198.7 tok/s
+  [Micro-step 7786] Loss: 7.0505 | Speed:  246.1 tok/s
+  [Micro-step 7787] Loss: 7.2577 | Speed:  234.0 tok/s
+  [Micro-step 7788] Loss: 6.6162 | Speed:  218.3 tok/s
+  [Micro-step 7789] Loss: 7.1070 | Speed:  203.0 tok/s
+  [Micro-step 7790] Loss: 7.0980 | Speed:  198.5 tok/s
+  [Micro-step 7791] Loss: 7.0645 | Speed:  207.7 tok/s
+Step 974/3250 (uStep 7792) | Loss: 6.5223 | GradNorm: 85136.266 | LR_scale: 0.816 | Speed:  237.7 tok/s | RSS:  944.8 MB
+  [Micro-step 7793] Loss: 6.8805 | Speed:  232.1 tok/s
+  [Micro-step 7794] Loss: 6.9511 | Speed:  237.7 tok/s
+  [Micro-step 7795] Loss: 7.0962 | Speed:  220.3 tok/s
+  [Micro-step 7796] Loss: 6.8810 | Speed:  196.2 tok/s
+  [Micro-step 7797] Loss: 7.0733 | Speed:  216.6 tok/s
+  [Micro-step 7798] Loss: 6.8779 | Speed:  245.1 tok/s
+  [Micro-step 7799] Loss: 7.3502 | Speed:  207.4 tok/s
+Step 975/3250 (uStep 7800) | Loss: 6.7294 | GradNorm: 102616.328 | LR_scale: 0.816 | Speed:  221.6 tok/s | RSS:  922.7 MB
+  --> [Validation] Val Loss: 6.9577
+  --> [Sample Story] "Once upon a time, Lily
+ a.. the the)$ for it. $ ingon the to(.
+ his
+ and the
+ it.The and
+, the.on for
+
+.. to of s the
+ to a and"
+  --> [Sample Reason] "User: Is a cat an animal?
+
+Assistant:  and\)
+ the*))
+it.(.#
+. *. D.
+. s
+. and -..,"
+  --> [Checkpoint] Saved atomic checkpoint to /home/duoneural/srsn_ryzen/checkpoints/srsn_step0975.pt
+  [Micro-step 7801] Loss: 6.9482 | Speed:  222.2 tok/s
+  [Micro-step 7802] Loss: 7.1977 | Speed:  233.1 tok/s
+  [Micro-step 7803] Loss: 6.8125 | Speed:  244.5 tok/s
+  [Micro-step 7804] Loss: 7.3598 | Speed:  192.6 tok/s
+  [Micro-step 7805] Loss: 7.0387 | Speed:  235.3 tok/s
+  [Micro-step 7806] Loss: 7.2076 | Speed:  215.1 tok/s
+  [Micro-step 7807] Loss: 6.8674 | Speed:  205.7 tok/s
+Step 976/3250 (uStep 7808) | Loss: 7.0967 | GradNorm: 81725.062 | LR_scale: 0.815 | Speed:  235.7 tok/s | RSS:  909.0 MB
+  [Micro-step 7809] Loss: 6.7328 | Speed:  223.6 tok/s
+  [Micro-step 7810] Loss: 7.0280 | Speed:  190.4 tok/s
+  [Micro-step 7811] Loss: 7.0054 | Speed:  223.6 tok/s
+  [Micro-step 7812] Loss: 6.6088 | Speed:  231.6 tok/s
+  [Micro-step 7813] Loss: 7.0182 | Speed:  214.2 tok/s
+  [Micro-step 7814] Loss: 7.5116 | Speed:  219.2 tok/s
+  [Micro-step 7815] Loss: 6.9010 | Speed:  218.7 tok/s
+Step 977/3250 (uStep 7816) | Loss: 7.0085 | GradNorm: 245795.984 | LR_scale: 0.815 | Speed:  213.3 tok/s | RSS:  909.1 MB
+  [Micro-step 7817] Loss: 7.0014 | Speed:  219.1 tok/s
+  [Micro-step 7818] Loss: 6.9161 | Speed:  201.2 tok/s
+  [Micro-step 7819] Loss: 6.9106 | Speed:  223.3 tok/s
+  [Micro-step 7820] Loss: 7.0866 | Speed:  219.4 tok/s
+  [Micro-step 7821] Loss: 6.5709 | Speed:  201.7 tok/s
+  [Micro-step 7822] Loss: 6.9635 | Speed:  226.2 tok/s
+  [Micro-step 7823] Loss: 6.9221 | Speed:  253.9 tok/s
+Step 978/3250 (uStep 7824) | Loss: 6.7593 | GradNorm: 142590.938 | LR_scale: 0.815 | Speed:  227.6 tok/s | RSS:  909.1 MB
+  [Micro-step 7825] Loss: 7.2201 | Speed:  205.4 tok/s
+  [Micro-step 7826] Loss: 6.9707 | Speed:  217.0 tok/s
+  [Micro-step 7827] Loss: 7.1641 | Speed:  224.3 tok/s
+  [Micro-step 7828] Loss: 6.8246 | Speed:  206.2 tok/s
+  [Micro-step 7829] Loss: 6.9147 | Speed:  199.1 tok/s
+  [Micro-step 7830] Loss: 6.8914 | Speed:  218.9 tok/s
+  [Micro-step 7831] Loss: 6.4948 | Speed:  218.9 tok/s
+Step 979/3250 (uStep 7832) | Loss: 6.7619 | GradNorm: 172955.891 | LR_scale: 0.814 | Speed:  193.3 tok/s | RSS:  909.1 MB
+  [Micro-step 7833] Loss: 7.1674 | Speed:  243.4 tok/s
+  [Micro-step 7834] Loss: 6.9329 | Speed:  216.5 tok/s
+  [Micro-step 7835] Loss: 7.1338 | Speed:  200.5 tok/s
+  [Micro-step 7836] Loss: 7.1529 | Speed:  202.9 tok/s
+  [Micro-step 7837] Loss: 6.9623 | Speed:  229.6 tok/s
+  [Micro-step 7838] Loss: 6.8676 | Speed:  223.9 tok/s
+  [Micro-step 7839] Loss: 7.0539 | Speed:  246.9 tok/s
+Step 980/3250 (uStep 7840) | Loss: 6.9052 | GradNorm: 30279.596 | LR_scale: 0.814 | Speed:  258.4 tok/s | RSS:  909.2 MB
+  [Micro-step 7841] Loss: 6.8136 | Speed:  211.8 tok/s
+  [Micro-step 7842] Loss: 7.0507 | Speed:  203.9 tok/s
+  [Micro-step 7843] Loss: 7.2738 | Speed:  208.7 tok/s
+  [Micro-step 7844] Loss: 6.8395 | Speed:  248.7 tok/s
+  [Micro-step 7845] Loss: 6.7496 | Speed:  245.3 tok/s
+  [Micro-step 7846] Loss: 6.8568 | Speed:  190.3 tok/s
+  [Micro-step 7847] Loss: 6.4509 | Speed:  204.5 tok/s
+Step 981/3250 (uStep 7848) | Loss: 6.9176 | GradNorm: 72212.672 | LR_scale: 0.814 | Speed:  231.2 tok/s | RSS:  922.5 MB
+  [Micro-step 7849] Loss: 7.6457 | Speed:  246.1 tok/s
+  [Micro-step 7850] Loss: 6.8100 | Speed:  233.3 tok/s
+  [Micro-step 7851] Loss: 6.9309 | Speed:  238.4 tok/s
+  [Micro-step 7852] Loss: 7.3132 | Speed:  196.9 tok/s
+  [Micro-step 7853] Loss: 6.3842 | Speed:  230.6 tok/s
+  [Micro-step 7854] Loss: 6.7635 | Speed:  198.3 tok/s
+  [Micro-step 7855] Loss: 6.3934 | Speed:  201.4 tok/s
+Step 982/3250 (uStep 7856) | Loss: 7.0532 | GradNorm: 96989.906 | LR_scale: 0.813 | Speed:  241.1 tok/s | RSS:  932.7 MB
+  [Micro-step 7857] Loss: 6.8146 | Speed:  209.9 tok/s
+  [Micro-step 7858] Loss: 7.1335 | Speed:  238.2 tok/s
+  [Micro-step 7859] Loss: 6.9196 | Speed:  226.6 tok/s
+  [Micro-step 7860] Loss: 7.0094 | Speed:  252.7 tok/s
+  [Micro-step 7861] Loss: 6.9942 | Speed:  227.1 tok/s
+  [Micro-step 7862] Loss: 6.8248 | Speed:  213.2 tok/s
+  [Micro-step 7863] Loss: 6.9928 | Speed:  201.4 tok/s
+Step 983/3250 (uStep 7864) | Loss: 6.7253 | GradNorm: 151804.984 | LR_scale: 0.813 | Speed:  218.9 tok/s | RSS:  948.6 MB
+  [Micro-step 7865] Loss: 7.0389 | Speed:  213.3 tok/s
+  [Micro-step 7866] Loss: 7.0196 | Speed:  204.8 tok/s
+  [Micro-step 7867] Loss: 6.8604 | Speed:  248.7 tok/s
+  [Micro-step 7868] Loss: 7.4236 | Speed:  198.3 tok/s
+  [Micro-step 7869] Loss: 6.9716 | Speed:  206.6 tok/s
+  [Micro-step 7870] Loss: 7.1745 | Speed:  240.5 tok/s
+  [Micro-step 7871] Loss: 7.0289 | Speed:  228.1 tok/s
+Step 984/3250 (uStep 7872) | Loss: 6.7992 | GradNorm: 52725.648 | LR_scale: 0.813 | Speed:  207.8 tok/s | RSS:  934.8 MB
+  [Micro-step 7873] Loss: 6.9236 | Speed:  205.0 tok/s
+  [Micro-step 7874] Loss: 6.8602 | Speed:  229.5 tok/s
+  [Micro-step 7875] Loss: 6.6150 | Speed:  234.6 tok/s
+  [Micro-step 7876] Loss: 6.2477 | Speed:  226.4 tok/s
+  [Micro-step 7877] Loss: 7.0291 | Speed:  219.3 tok/s
+  [Micro-step 7878] Loss: 6.9397 | Speed:  215.3 tok/s
+  [Micro-step 7879] Loss: 6.8566 | Speed:  190.7 tok/s
+Step 985/3250 (uStep 7880) | Loss: 7.3430 | GradNorm: 42359.246 | LR_scale: 0.812 | Speed:  243.0 tok/s | RSS:  909.4 MB
+  [Micro-step 7881] Loss: 6.7383 | Speed:  194.7 tok/s
+  [Micro-step 7882] Loss: 6.5818 | Speed:  220.2 tok/s
+  [Micro-step 7883] Loss: 7.2737 | Speed:  213.8 tok/s
+  [Micro-step 7884] Loss: 6.4875 | Speed:  218.4 tok/s
+  [Micro-step 7885] Loss: 6.9886 | Speed:  207.0 tok/s
+  [Micro-step 7886] Loss: 7.1105 | Speed:  233.9 tok/s
+  [Micro-step 7887] Loss: 6.5099 | Speed:  232.1 tok/s
+Step 986/3250 (uStep 7888) | Loss: 7.1928 | GradNorm: 76077.531 | LR_scale: 0.812 | Speed:  258.2 tok/s | RSS:  954.5 MB
+  [Micro-step 7889] Loss: 7.1345 | Speed:  199.0 tok/s
+  [Micro-step 7890] Loss: 6.6281 | Speed:  189.1 tok/s
+  [Micro-step 7891] Loss: 6.8647 | Speed:  210.3 tok/s
+  [Micro-step 7892] Loss: 6.8962 | Speed:  230.7 tok/s
+  [Micro-step 7893] Loss: 7.3512 | Speed:  222.2 tok/s
+  [Micro-step 7894] Loss: 6.7829 | Speed:  186.1 tok/s
+  [Micro-step 7895] Loss: 6.9675 | Speed:  197.2 tok/s
+Step 987/3250 (uStep 7896) | Loss: 6.5242 | GradNorm: 35530.977 | LR_scale: 0.811 | Speed:  236.3 tok/s | RSS:  947.7 MB
+  [Micro-step 7897] Loss: 6.7478 | Speed:  217.3 tok/s
+  [Micro-step 7898] Loss: 6.6844 | Speed:  214.5 tok/s
+  [Micro-step 7899] Loss: 7.0687 | Speed:  230.3 tok/s
+  [Micro-step 7900] Loss: 6.7903 | Speed:  205.1 tok/s
+  [Micro-step 7901] Loss: 7.3163 | Speed:  217.1 tok/s
+  [Micro-step 7902] Loss: 7.0320 | Speed:  216.0 tok/s
+  [Micro-step 7903] Loss: 6.8947 | Speed:  197.0 tok/s
+Step 988/3250 (uStep 7904) | Loss: 7.1833 | GradNorm: 113641.555 | LR_scale: 0.811 | Speed:  235.3 tok/s | RSS:  946.8 MB
+  [Micro-step 7905] Loss: 6.5022 | Speed:  239.3 tok/s
+  [Micro-step 7906] Loss: 6.9715 | Speed:  205.3 tok/s
+  [Micro-step 7907] Loss: 7.1333 | Speed:  234.4 tok/s
+  [Micro-step 7908] Loss: 7.2144 | Speed:  204.2 tok/s
+  [Micro-step 7909] Loss: 7.0139 | Speed:  241.0 tok/s
+  [Micro-step 7910] Loss: 7.0212 | Speed:  239.8 tok/s
+  [Micro-step 7911] Loss: 6.8025 | Speed:  237.4 tok/s
+Step 989/3250 (uStep 7912) | Loss: 6.8217 | GradNorm: 37837.141 | LR_scale: 0.811 | Speed:  207.7 tok/s | RSS:  949.4 MB
+  [Micro-step 7913] Loss: 6.8564 | Speed:  225.5 tok/s
+  [Micro-step 7914] Loss: 7.0768 | Speed:  233.7 tok/s
+  [Micro-step 7915] Loss: 7.0450 | Speed:  220.8 tok/s
+  [Micro-step 7916] Loss: 7.1377 | Speed:  226.4 tok/s
+  [Micro-step 7917] Loss: 6.8225 | Speed:  200.0 tok/s
+  [Micro-step 7918] Loss: 6.9915 | Speed:  230.3 tok/s
+  [Micro-step 7919] Loss: 6.7153 | Speed:  215.8 tok/s
+Step 990/3250 (uStep 7920) | Loss: 6.5669 | GradNorm: 37721.691 | LR_scale: 0.810 | Speed:  240.0 tok/s | RSS:  962.7 MB
+  [Micro-step 7921] Loss: 7.0967 | Speed:  229.7 tok/s
+  [Micro-step 7922] Loss: 7.0977 | Speed:  237.5 tok/s
+  [Micro-step 7923] Loss: 6.8247 | Speed:  211.8 tok/s
+  [Micro-step 7924] Loss: 6.6316 | Speed:  211.4 tok/s
+  [Micro-step 7925] Loss: 7.0963 | Speed:  216.1 tok/s
+  [Micro-step 7926] Loss: 7.0026 | Speed:  226.8 tok/s
+  [Micro-step 7927] Loss: 6.7687 | Speed:  244.7 tok/s
+Step 991/3250 (uStep 7928) | Loss: 7.0615 | GradNorm: 53984.672 | LR_scale: 0.810 | Speed:  229.1 tok/s | RSS:  919.4 MB
+  [Micro-step 7929] Loss: 7.0731 | Speed:  238.6 tok/s
+  [Micro-step 7930] Loss: 6.8358 | Speed:  224.8 tok/s
+  [Micro-step 7931] Loss: 6.6897 | Speed:  228.1 tok/s
+  [Micro-step 7932] Loss: 6.7891 | Speed:  247.1 tok/s
+  [Micro-step 7933] Loss: 7.4233 | Speed:  199.1 tok/s
+  [Micro-step 7934] Loss: 7.0416 | Speed:  212.8 tok/s
+  [Micro-step 7935] Loss: 7.0565 | Speed:  237.8 tok/s
+Step 992/3250 (uStep 7936) | Loss: 7.2556 | GradNorm: 47178.426 | LR_scale: 0.810 | Speed:  230.7 tok/s | RSS:  927.7 MB
+  [Micro-step 7937] Loss: 7.2099 | Speed:  206.3 tok/s
+  [Micro-step 7938] Loss: 7.1147 | Speed:  200.6 tok/s
+  [Micro-step 7939] Loss: 6.7071 | Speed:  238.1 tok/s
+  [Micro-step 7940] Loss: 7.0899 | Speed:  198.0 tok/s
+  [Micro-step 7941] Loss: 7.1197 | Speed:  205.4 tok/s
+  [Micro-step 7942] Loss: 7.0005 | Speed:  230.8 tok/s
+  [Micro-step 7943] Loss: 6.8913 | Speed:  191.5 tok/s
+Step 993/3250 (uStep 7944) | Loss: 7.0836 | GradNorm: 98730.000 | LR_scale: 0.809 | Speed:  218.2 tok/s | RSS:  934.2 MB
+  [Micro-step 7945] Loss: 7.1065 | Speed:  221.6 tok/s
+  [Micro-step 7946] Loss: 7.2268 | Speed:  201.5 tok/s
+  [Micro-step 7947] Loss: 7.2309 | Speed:  234.0 tok/s
+  [Micro-step 7948] Loss: 6.5220 | Speed:  184.1 tok/s
+  [Micro-step 7949] Loss: 7.0175 | Speed:  224.2 tok/s
+  [Micro-step 7950] Loss: 6.6560 | Speed:  198.5 tok/s
+  [Micro-step 7951] Loss: 6.6962 | Speed:  204.4 tok/s
+Step 994/3250 (uStep 7952) | Loss: 6.6447 | GradNorm: 83494.141 | LR_scale: 0.809 | Speed:  197.9 tok/s | RSS:  909.4 MB
+  [Micro-step 7953] Loss: 7.0341 | Speed:  231.1 tok/s
+  [Micro-step 7954] Loss: 6.9030 | Speed:  239.7 tok/s
+  [Micro-step 7955] Loss: 6.7185 | Speed:  220.4 tok/s
+  [Micro-step 7956] Loss: 6.6538 | Speed:  218.4 tok/s
+  [Micro-step 7957] Loss: 6.8774 | Speed:  243.2 tok/s
+  [Micro-step 7958] Loss: 6.9812 | Speed:  206.9 tok/s
+  [Micro-step 7959] Loss: 7.0541 | Speed:  247.5 tok/s
+Step 995/3250 (uStep 7960) | Loss: 7.3128 | GradNorm: 55332.906 | LR_scale: 0.809 | Speed:  217.5 tok/s | RSS:  929.2 MB
+  [Micro-step 7961] Loss: 6.6380 | Speed:  214.8 tok/s
+  [Micro-step 7962] Loss: 6.7041 | Speed:  221.3 tok/s
+  [Micro-step 7963] Loss: 6.8823 | Speed:  213.9 tok/s
+  [Micro-step 7964] Loss: 6.7197 | Speed:  199.0 tok/s
+  [Micro-step 7965] Loss: 6.7825 | Speed:  237.9 tok/s
+  [Micro-step 7966] Loss: 6.6747 | Speed:  208.7 tok/s
+  [Micro-step 7967] Loss: 6.8913 | Speed:  209.4 tok/s
+Step 996/3250 (uStep 7968) | Loss: 7.3094 | GradNorm: 209703.734 | LR_scale: 0.808 | Speed:  232.8 tok/s | RSS:  937.5 MB
+  [Micro-step 7969] Loss: 7.2527 | Speed:  225.6 tok/s
+  [Micro-step 7970] Loss: 6.5483 | Speed:  238.7 tok/s
+  [Micro-step 7971] Loss: 7.0091 | Speed:  230.4 tok/s
+  [Micro-step 7972] Loss: 7.0120 | Speed:  234.7 tok/s
+  [Micro-step 7973] Loss: 6.7044 | Speed:  230.4 tok/s
+  [Micro-step 7974] Loss: 6.8171 | Speed:  197.5 tok/s
+  [Micro-step 7975] Loss: 6.4609 | Speed:  244.9 tok/s
+Step 997/3250 (uStep 7976) | Loss: 7.2112 | GradNorm: 71813.461 | LR_scale: 0.808 | Speed:  221.5 tok/s | RSS:  923.7 MB
+  [Micro-step 7977] Loss: 6.9079 | Speed:  191.0 tok/s
+  [Micro-step 7978] Loss: 6.4534 | Speed:  200.2 tok/s
+  [Micro-step 7979] Loss: 6.9458 | Speed:  238.4 tok/s
+  [Micro-step 7980] Loss: 6.6962 | Speed:  235.9 tok/s
+  [Micro-step 7981] Loss: 7.0524 | Speed:  214.1 tok/s
+  [Micro-step 7982] Loss: 6.7557 | Speed:  228.5 tok/s
+  [Micro-step 7983] Loss: 7.2336 | Speed:  214.8 tok/s
+Step 998/3250 (uStep 7984) | Loss: 6.5558 | GradNorm: 205261.234 | LR_scale: 0.808 | Speed:  188.5 tok/s | RSS:  929.4 MB
+  [Micro-step 7985] Loss: 6.8299 | Speed:  251.3 tok/s
+  [Micro-step 7986] Loss: 6.7135 | Speed:  224.3 tok/s
+  [Micro-step 7987] Loss: 6.7224 | Speed:  241.7 tok/s
+  [Micro-step 7988] Loss: 6.6205 | Speed:  202.7 tok/s
+  [Micro-step 7989] Loss: 7.0454 | Speed:  209.4 tok/s
+  [Micro-step 7990] Loss: 6.6842 | Speed:  189.0 tok/s
+  [Micro-step 7991] Loss: 6.9010 | Speed:  226.7 tok/s
+Step 999/3250 (uStep 7992) | Loss: 7.1240 | GradNorm: 110633.680 | LR_scale: 0.807 | Speed:  208.7 tok/s | RSS:  939.4 MB
+  [Micro-step 7993] Loss: 6.9263 | Speed:  221.2 tok/s
+  [Micro-step 7994] Loss: 6.9466 | Speed:  246.9 tok/s
+  [Micro-step 7995] Loss: 7.0524 | Speed:  216.6 tok/s
+  [Micro-step 7996] Loss: 7.0370 | Speed:  218.3 tok/s
+  [Micro-step 7997] Loss: 6.6870 | Speed:  199.5 tok/s
+  [Micro-step 7998] Loss: 7.1589 | Speed:  223.7 tok/s
+  [Micro-step 7999] Loss: 6.9485 | Speed:  216.2 tok/s
+Step 1000/3250 (uStep 8000) | Loss: 7.0069 | GradNorm: 24336.090 | LR_scale: 0.807 | Speed:  232.4 tok/s | RSS:  909.4 MB
+  --> [Validation] Val Loss: 6.7682
+  --> [Sample Story] "Once upon a time, Lily, the to,(* the a(( the..,
+P.  and\,2  that and
+ the  and a the
+
+
+ . , the.'s* , the a in of"
+  --> [Sample Reason] "User: Is a cat an animal?
+
+Assistant:\: $*
+  theit  a
+ was(s(- the-.,
+ing of:: it is(,.."
+  --> [Checkpoint] Saved atomic checkpoint to /home/duoneural/srsn_ryzen/checkpoints/srsn_step1000.pt
+  [Micro-step 8001] Loss: 7.0082 | Speed:  235.7 tok/s
+  [Micro-step 8002] Loss: 6.4880 | Speed:  212.5 tok/s
+  [Micro-step 8003] Loss: 7.0569 | Speed:  180.7 tok/s
+  [Micro-step 8004] Loss: 6.6289 | Speed:  194.8 tok/s
+  [Micro-step 8005] Loss: 7.0699 | Speed:  233.4 tok/s
+  [Micro-step 8006] Loss: 7.0705 | Speed:  188.4 tok/s
+  [Micro-step 8007] Loss: 6.7963 | Speed:  205.0 tok/s
+Step 1001/3250 (uStep 8008) | Loss: 6.9114 | GradNorm: 50041.469 | LR_scale: 0.807 | Speed:  204.2 tok/s | RSS:  909.4 MB
+  [Micro-step 8009] Loss: 6.4983 | Speed:  209.4 tok/s
+  [Micro-step 8010] Loss: 6.8197 | Speed:  234.2 tok/s
+  [Micro-step 8011] Loss: 6.6029 | Speed:  203.9 tok/s
+  [Micro-step 8012] Loss: 6.8883 | Speed:  223.8 tok/s
+  [Micro-step 8013] Loss: 6.8284 | Speed:  205.0 tok/s
+  [Micro-step 8014] Loss: 6.6289 | Speed:  210.2 tok/s
+  [Micro-step 8015] Loss: 6.9458 | Speed:  196.3 tok/s
+Step 1002/3250 (uStep 8016) | Loss: 6.5904 | GradNorm: 42800.969 | LR_scale: 0.806 | Speed:  223.1 tok/s | RSS:  909.4 MB
+  [Micro-step 8017] Loss: 6.7244 | Speed:  217.4 tok/s
+  [Micro-step 8018] Loss: 6.5811 | Speed:  209.9 tok/s
+  [Micro-step 8019] Loss: 7.1450 | Speed:  225.0 tok/s
+  [Micro-step 8020] Loss: 6.5574 | Speed:  211.3 tok/s
+  [Micro-step 8021] Loss: 7.1419 | Speed:  238.8 tok/s
+  [Micro-step 8022] Loss: 6.8400 | Speed:  194.9 tok/s
+  [Micro-step 8023] Loss: 6.9828 | Speed:  219.6 tok/s
+Step 1003/3250 (uStep 8024) | Loss: 7.2913 | GradNorm: 4511.264 | LR_scale: 0.806 | Speed:  233.8 tok/s | RSS:  909.4 MB
+  [Micro-step 8025] Loss: 7.0781 | Speed:  237.3 tok/s
+  [Micro-step 8026] Loss: 6.6252 | Speed:  182.8 tok/s
+  [Micro-step 8027] Loss: 6.6720 | Speed:  224.5 tok/s
+  [Micro-step 8028] Loss: 6.9886 | Speed:  204.7 tok/s
+  [Micro-step 8029] Loss: 6.9156 | Speed:  212.9 tok/s
+  [Micro-step 8030] Loss: 7.0693 | Speed:  215.1 tok/s
+  [Micro-step 8031] Loss: 6.7887 | Speed:  219.3 tok/s
+Step 1004/3250 (uStep 8032) | Loss: 7.1287 | GradNorm: 37045.980 | LR_scale: 0.805 | Speed:  184.5 tok/s | RSS:  929.4 MB
+  [Micro-step 8033] Loss: 6.9951 | Speed:  246.8 tok/s
+  [Micro-step 8034] Loss: 6.9614 | Speed:  228.0 tok/s
+  [Micro-step 8035] Loss: 7.0054 | Speed:  225.1 tok/s
+  [Micro-step 8036] Loss: 7.1387 | Speed:  228.5 tok/s
+  [Micro-step 8037] Loss: 6.5728 | Speed:  206.9 tok/s
+  [Micro-step 8038] Loss: 6.6156 | Speed:  202.6 tok/s
+  [Micro-step 8039] Loss: 6.3103 | Speed:  228.6 tok/s
+Step 1005/3250 (uStep 8040) | Loss: 6.7594 | GradNorm: 38741.816 | LR_scale: 0.805 | Speed:  193.0 tok/s | RSS:  940.9 MB
+  [Micro-step 8041] Loss: 6.4495 | Speed:  202.5 tok/s
+  [Micro-step 8042] Loss: 7.0805 | Speed:  200.5 tok/s
+  [Micro-step 8043] Loss: 7.0194 | Speed:  216.9 tok/s
+  [Micro-step 8044] Loss: 6.9075 | Speed:  194.2 tok/s
+  [Micro-step 8045] Loss: 6.5238 | Speed:  236.4 tok/s
+  [Micro-step 8046] Loss: 6.8382 | Speed:  253.8 tok/s
+  [Micro-step 8047] Loss: 6.7724 | Speed:  233.8 tok/s
+Step 1006/3250 (uStep 8048) | Loss: 7.2635 | GradNorm: 178224.688 | LR_scale: 0.805 | Speed:  214.6 tok/s | RSS:  930.9 MB
+  [Micro-step 8049] Loss: 7.2433 | Speed:  188.5 tok/s
+  [Micro-step 8050] Loss: 6.6446 | Speed:  233.8 tok/s
+  [Micro-step 8051] Loss: 6.6149 | Speed:  212.0 tok/s
+  [Micro-step 8052] Loss: 6.7298 | Speed:  225.8 tok/s
+  [Micro-step 8053] Loss: 6.5733 | Speed:  212.7 tok/s
+  [Micro-step 8054] Loss: 6.8636 | Speed:  201.6 tok/s
+  [Micro-step 8055] Loss: 6.2940 | Speed:  208.4 tok/s
+Step 1007/3250 (uStep 8056) | Loss: 6.9950 | GradNorm: 19020.879 | LR_scale: 0.804 | Speed:  202.0 tok/s | RSS:  919.8 MB
+  [Micro-step 8057] Loss: 7.1277 | Speed:  217.3 tok/s
+  [Micro-step 8058] Loss: 7.2285 | Speed:  219.9 tok/s
+  [Micro-step 8059] Loss: 6.9286 | Speed:  219.2 tok/s
+  [Micro-step 8060] Loss: 7.2870 | Speed:  216.1 tok/s
+  [Micro-step 8061] Loss: 7.0126 | Speed:  252.7 tok/s
+  [Micro-step 8062] Loss: 7.0377 | Speed:  242.2 tok/s
+  [Micro-step 8063] Loss: 7.0698 | Speed:  236.4 tok/s
+Step 1008/3250 (uStep 8064) | Loss: 6.8830 | GradNorm: 12431.639 | LR_scale: 0.804 | Speed:  224.0 tok/s | RSS:  934.4 MB
+  [Micro-step 8065] Loss: 7.1620 | Speed:  227.2 tok/s
+  [Micro-step 8066] Loss: 6.8276 | Speed:  193.5 tok/s
+  [Micro-step 8067] Loss: 6.8865 | Speed:  222.4 tok/s
+  [Micro-step 8068] Loss: 6.7774 | Speed:  206.6 tok/s
+  [Micro-step 8069] Loss: 6.9405 | Speed:  207.1 tok/s
+  [Micro-step 8070] Loss: 6.8804 | Speed:  231.8 tok/s
+  [Micro-step 8071] Loss: 7.0903 | Speed:  204.7 tok/s
+Step 1009/3250 (uStep 8072) | Loss: 6.6998 | GradNorm: 19315.021 | LR_scale: 0.804 | Speed:  216.7 tok/s | RSS:  956.1 MB
+  [Micro-step 8073] Loss: 6.6229 | Speed:  210.5 tok/s
+  [Micro-step 8074] Loss: 6.9978 | Speed:  238.2 tok/s
+  [Micro-step 8075] Loss: 6.4434 | Speed:  232.2 tok/s
+  [Micro-step 8076] Loss: 6.8729 | Speed:  197.1 tok/s
+  [Micro-step 8077] Loss: 7.0414 | Speed:  230.1 tok/s
+  [Micro-step 8078] Loss: 6.6694 | Speed:  235.8 tok/s
+  [Micro-step 8079] Loss: 6.9632 | Speed:  206.7 tok/s
+Step 1010/3250 (uStep 8080) | Loss: 6.8983 | GradNorm: 32534.672 | LR_scale: 0.803 | Speed:  249.9 tok/s | RSS:  922.7 MB
+  [Micro-step 8081] Loss: 6.8252 | Speed:  201.4 tok/s
+  [Micro-step 8082] Loss: 7.2058 | Speed:  245.4 tok/s
+  [Micro-step 8083] Loss: 6.5679 | Speed:  214.9 tok/s
+  [Micro-step 8084] Loss: 7.0134 | Speed:  212.3 tok/s
+  [Micro-step 8085] Loss: 6.5411 | Speed:  222.5 tok/s
+  [Micro-step 8086] Loss: 6.4924 | Speed:  219.5 tok/s
+  [Micro-step 8087] Loss: 6.6482 | Speed:  205.8 tok/s
+Step 1011/3250 (uStep 8088) | Loss: 6.7260 | GradNorm: 15540.109 | LR_scale: 0.803 | Speed:  222.9 tok/s | RSS:  920.2 MB
+  [Micro-step 8089] Loss: 7.0217 | Speed:  225.0 tok/s
+  [Micro-step 8090] Loss: 6.8336 | Speed:  210.4 tok/s
+  [Micro-step 8091] Loss: 6.9422 | Speed:  210.4 tok/s
+  [Micro-step 8092] Loss: 6.9800 | Speed:  227.5 tok/s
+  [Micro-step 8093] Loss: 7.0758 | Speed:  242.8 tok/s
+  [Micro-step 8094] Loss: 6.4630 | Speed:  201.1 tok/s
+  [Micro-step 8095] Loss: 7.0826 | Speed:  229.3 tok/s
+Step 1012/3250 (uStep 8096) | Loss: 6.9372 | GradNorm: 93986.406 | LR_scale: 0.803 | Speed:  245.9 tok/s | RSS:  914.4 MB
+  [Micro-step 8097] Loss: 7.0260 | Speed:  233.2 tok/s
+  [Micro-step 8098] Loss: 7.0295 | Speed:  239.2 tok/s
+  [Micro-step 8099] Loss: 7.0845 | Speed:  207.1 tok/s
+  [Micro-step 8100] Loss: 6.5978 | Speed:  229.9 tok/s
+  [Micro-step 8101] Loss: 6.6342 | Speed:  217.4 tok/s
+  [Micro-step 8102] Loss: 7.0568 | Speed:  208.7 tok/s
+  [Micro-step 8103] Loss: 7.0911 | Speed:  197.3 tok/s
+Step 1013/3250 (uStep 8104) | Loss: 6.5057 | GradNorm: 25489.408 | LR_scale: 0.802 | Speed:  206.2 tok/s | RSS:  947.7 MB
+  [Micro-step 8105] Loss: 7.3027 | Speed:  228.3 tok/s
+  [Micro-step 8106] Loss: 6.8063 | Speed:  248.0 tok/s
+  [Micro-step 8107] Loss: 7.1267 | Speed:  233.3 tok/s
+  [Micro-step 8108] Loss: 6.6636 | Speed:  196.7 tok/s
+  [Micro-step 8109] Loss: 6.5883 | Speed:  254.1 tok/s
+  [Micro-step 8110] Loss: 6.9218 | Speed:  225.5 tok/s
+  [Micro-step 8111] Loss: 6.5523 | Speed:  230.2 tok/s
+Step 1014/3250 (uStep 8112) | Loss: 6.7706 | GradNorm: 3554.893 | LR_scale: 0.802 | Speed:  238.7 tok/s | RSS:  909.4 MB
+  [Micro-step 8113] Loss: 6.6174 | Speed:  206.6 tok/s
+  [Micro-step 8114] Loss: 6.6321 | Speed:  195.6 tok/s
+  [Micro-step 8115] Loss: 6.5939 | Speed:  225.7 tok/s
+  [Micro-step 8116] Loss: 6.5658 | Speed:  222.3 tok/s
+  [Micro-step 8117] Loss: 6.7573 | Speed:  193.9 tok/s
+  [Micro-step 8118] Loss: 7.1301 | Speed:  214.1 tok/s
+  [Micro-step 8119] Loss: 6.7119 | Speed:  237.5 tok/s
+Step 1015/3250 (uStep 8120) | Loss: 6.8942 | GradNorm: 4566.043 | LR_scale: 0.801 | Speed:  207.6 tok/s | RSS:  909.4 MB
+  [Micro-step 8121] Loss: 7.1131 | Speed:  248.7 tok/s
+  [Micro-step 8122] Loss: 6.8544 | Speed:  229.7 tok/s
+  [Micro-step 8123] Loss: 6.9003 | Speed:  208.4 tok/s
+  [Micro-step 8124] Loss: 6.8989 | Speed:  211.4 tok/s
+  [Micro-step 8125] Loss: 6.8557 | Speed:  227.1 tok/s
+  [Micro-step 8126] Loss: 6.2761 | Speed:  230.0 tok/s
+  [Micro-step 8127] Loss: 6.7443 | Speed:  236.4 tok/s
+Step 1016/3250 (uStep 8128) | Loss: 6.8883 | GradNorm: 3668.283 | LR_scale: 0.801 | Speed:  212.9 tok/s | RSS:  944.4 MB
+  [Micro-step 8129] Loss: 7.1074 | Speed:  228.5 tok/s
+  [Micro-step 8130] Loss: 6.7259 | Speed:  217.3 tok/s
+  [Micro-step 8131] Loss: 6.6891 | Speed:  213.1 tok/s
+  [Micro-step 8132] Loss: 6.8386 | Speed:  258.2 tok/s
+  [Micro-step 8133] Loss: 6.7929 | Speed:  224.2 tok/s
+  [Micro-step 8134] Loss: 6.9342 | Speed:  209.6 tok/s
+  [Micro-step 8135] Loss: 6.4896 | Speed:  239.3 tok/s
+Step 1017/3250 (uStep 8136) | Loss: 7.2943 | GradNorm: 22465.744 | LR_scale: 0.801 | Speed:  230.7 tok/s | RSS:  909.4 MB
+  [Micro-step 8137] Loss: 7.0304 | Speed:  201.3 tok/s
+  [Micro-step 8138] Loss: 7.2679 | Speed:  238.0 tok/s
+  [Micro-step 8139] Loss: 6.6942 | Speed:  202.5 tok/s
+  [Micro-step 8140] Loss: 7.2415 | Speed:  237.8 tok/s
+  [Micro-step 8141] Loss: 6.7826 | Speed:  209.3 tok/s
+  [Micro-step 8142] Loss: 6.9486 | Speed:  224.9 tok/s
+  [Micro-step 8143] Loss: 6.5509 | Speed:  226.9 tok/s
+Step 1018/3250 (uStep 8144) | Loss: 6.7939 | GradNorm: 2709.939 | LR_scale: 0.800 | Speed:  225.8 tok/s | RSS:  922.7 MB
+  [Micro-step 8145] Loss: 6.6619 | Speed:  200.0 tok/s
+  [Micro-step 8146] Loss: 6.8391 | Speed:  168.1 tok/s
+  [Micro-step 8147] Loss: 6.5777 | Speed:  215.7 tok/s
+  [Micro-step 8148] Loss: 6.6461 | Speed:  219.6 tok/s
+  [Micro-step 8149] Loss: 6.9824 | Speed:  220.7 tok/s
+  [Micro-step 8150] Loss: 7.3101 | Speed:  218.9 tok/s
+  [Micro-step 8151] Loss: 7.2423 | Speed:  215.3 tok/s
+Step 1019/3250 (uStep 8152) | Loss: 7.1786 | GradNorm: 21004.252 | LR_scale: 0.800 | Speed:  228.0 tok/s | RSS:  929.4 MB
+  [Micro-step 8153] Loss: 7.1135 | Speed:  212.3 tok/s
+  [Micro-step 8154] Loss: 6.5986 | Speed:  220.0 tok/s
+  [Micro-step 8155] Loss: 7.0705 | Speed:  214.6 tok/s
+  [Micro-step 8156] Loss: 6.6882 | Speed:  199.2 tok/s
+  [Micro-step 8157] Loss: 7.1401 | Speed:  221.6 tok/s
+  [Micro-step 8158] Loss: 6.9658 | Speed:  201.7 tok/s
+  [Micro-step 8159] Loss: 6.6372 | Speed:  245.8 tok/s
+Step 1020/3250 (uStep 8160) | Loss: 6.7444 | GradNorm: 7654.440 | LR_scale: 0.800 | Speed:  222.4 tok/s | RSS:  909.4 MB
+  [Micro-step 8161] Loss: 6.8038 | Speed:  217.5 tok/s
+  [Micro-step 8162] Loss: 7.0957 | Speed:  207.9 tok/s
+  [Micro-step 8163] Loss: 6.7958 | Speed:  211.3 tok/s
+  [Micro-step 8164] Loss: 7.0444 | Speed:  219.5 tok/s
+  [Micro-step 8165] Loss: 6.7930 | Speed:  208.8 tok/s
+  [Micro-step 8166] Loss: 6.6075 | Speed:  223.0 tok/s
+  [Micro-step 8167] Loss: 6.8045 | Speed:  233.5 tok/s
+Step 1021/3250 (uStep 8168) | Loss: 6.8854 | GradNorm: 2269.915 | LR_scale: 0.799 | Speed:  225.6 tok/s | RSS:  982.6 MB
+  [Micro-step 8169] Loss: 6.7319 | Speed:  239.4 tok/s
+  [Micro-step 8170] Loss: 6.7834 | Speed:  249.1 tok/s
+  [Micro-step 8171] Loss: 6.8054 | Speed:  246.4 tok/s
+  [Micro-step 8172] Loss: 6.9642 | Speed:  196.5 tok/s
+  [Micro-step 8173] Loss: 6.5528 | Speed:  189.2 tok/s
+  [Micro-step 8174] Loss: 6.8702 | Speed:  217.9 tok/s
+  [Micro-step 8175] Loss: 6.7406 | Speed:  239.3 tok/s
+Step 1022/3250 (uStep 8176) | Loss: 6.8095 | GradNorm: 7291.149 | LR_scale: 0.799 | Speed:  226.7 tok/s | RSS:  954.0 MB
+  [Micro-step 8177] Loss: 6.9620 | Speed:  214.4 tok/s
+  [Micro-step 8178] Loss: 7.0584 | Speed:  229.5 tok/s
+  [Micro-step 8179] Loss: 6.8911 | Speed:  214.4 tok/s
+  [Micro-step 8180] Loss: 6.5635 | Speed:  252.8 tok/s
+  [Micro-step 8181] Loss: 7.0220 | Speed:  236.3 tok/s
+  [Micro-step 8182] Loss: 6.7585 | Speed:  193.3 tok/s
+  [Micro-step 8183] Loss: 6.9540 | Speed:  218.9 tok/s
+Step 1023/3250 (uStep 8184) | Loss: 7.3084 | GradNorm: 29461.920 | LR_scale: 0.799 | Speed:  225.1 tok/s | RSS:  948.3 MB
+  [Micro-step 8185] Loss: 6.8274 | Speed:  229.3 tok/s
+  [Micro-step 8186] Loss: 6.4744 | Speed:  210.3 tok/s
+  [Micro-step 8187] Loss: 6.9843 | Speed:  239.8 tok/s
+  [Micro-step 8188] Loss: 6.5251 | Speed:  227.4 tok/s
+  [Micro-step 8189] Loss: 6.7102 | Speed:  207.1 tok/s
+  [Micro-step 8190] Loss: 7.0701 | Speed:  201.6 tok/s
+  [Micro-step 8191] Loss: 7.2713 | Speed:  209.3 tok/s
+Step 1024/3250 (uStep 8192) | Loss: 6.7151 | GradNorm: 6027.894 | LR_scale: 0.798 | Speed:  230.6 tok/s | RSS:  909.4 MB
+  [Micro-step 8193] Loss: 6.7826 | Speed:  213.7 tok/s
+  [Micro-step 8194] Loss: 7.1867 | Speed:  260.1 tok/s
+  [Micro-step 8195] Loss: 7.2114 | Speed:  195.6 tok/s
+  [Micro-step 8196] Loss: 6.8196 | Speed:  211.6 tok/s
+  [Micro-step 8197] Loss: 6.5642 | Speed:  224.9 tok/s
+  [Micro-step 8198] Loss: 6.7246 | Speed:  185.1 tok/s
+  [Micro-step 8199] Loss: 6.5987 | Speed:  210.3 tok/s
+Step 1025/3250 (uStep 8200) | Loss: 6.8823 | GradNorm: 58907.934 | LR_scale: 0.798 | Speed:  230.8 tok/s | RSS:  909.4 MB
+  --> [Validation] Val Loss: 6.8609
+  --> [Sample Story] "Once upon a time, Lily had that,. the, and
+ and that the,,
+ that
+...... the, the,
+ in, 
+  the1 and the$,.'s in. and(
+ $\ of"
+  --> [Sample Reason] "User: Is a cat an animal?
+
+Assistant:.1\ of\  ,, )  the(s as  
+\. *:{ 
+$ to$ $"
+  --> [Checkpoint] Saved atomic checkpoint to /home/duoneural/srsn_ryzen/checkpoints/srsn_step1025.pt
+  [Micro-step 8201] Loss: 6.6436 | Speed:  202.4 tok/s
+  [Micro-step 8202] Loss: 7.0005 | Speed:  204.6 tok/s
+  [Micro-step 8203] Loss: 7.2142 | Speed:  198.3 tok/s
+  [Micro-step 8204] Loss: 6.6079 | Speed:  213.7 tok/s
+  [Micro-step 8205] Loss: 6.7449 | Speed:  212.4 tok/s
+  [Micro-step 8206] Loss: 7.1634 | Speed:  236.3 tok/s
+  [Micro-step 8207] Loss: 6.9136 | Speed:  227.5 tok/s
+Step 1026/3250 (uStep 8208) | Loss: 6.8980 | GradNorm: 66376.031 | LR_scale: 0.797 | Speed:  218.0 tok/s | RSS:  951.2 MB
+  [Micro-step 8209] Loss: 6.8446 | Speed:  250.0 tok/s
+  [Micro-step 8210] Loss: 7.0659 | Speed:  238.3 tok/s
+  [Micro-step 8211] Loss: 7.1034 | Speed:  220.7 tok/s
+  [Micro-step 8212] Loss: 6.9788 | Speed:  226.5 tok/s
+  [Micro-step 8213] Loss: 6.9006 | Speed:  227.1 tok/s
+  [Micro-step 8214] Loss: 6.8614 | Speed:  228.5 tok/s
+  [Micro-step 8215] Loss: 7.1504 | Speed:  207.3 tok/s
+Step 1027/3250 (uStep 8216) | Loss: 6.8632 | GradNorm: 88318.125 | LR_scale: 0.797 | Speed:  234.9 tok/s | RSS:  943.7 MB
+  [Micro-step 8217] Loss: 7.1517 | Speed:  247.2 tok/s
+  [Micro-step 8218] Loss: 6.6952 | Speed:  201.7 tok/s
+  [Micro-step 8219] Loss: 6.9589 | Speed:  208.5 tok/s
+  [Micro-step 8220] Loss: 6.5208 | Speed:  259.9 tok/s
+  [Micro-step 8221] Loss: 6.9969 | Speed:  200.2 tok/s
+  [Micro-step 8222] Loss: 6.8306 | Speed:  230.3 tok/s
+  [Micro-step 8223] Loss: 6.6963 | Speed:  235.3 tok/s
+Step 1028/3250 (uStep 8224) | Loss: 6.8375 | GradNorm: 58675.586 | LR_scale: 0.797 | Speed:  219.7 tok/s | RSS:  943.0 MB
+  [Micro-step 8225] Loss: 6.6192 | Speed:  225.7 tok/s
+  [Micro-step 8226] Loss: 6.7775 | Speed:  235.4 tok/s
+  [Micro-step 8227] Loss: 6.9171 | Speed:  208.5 tok/s
+  [Micro-step 8228] Loss: 6.8534 | Speed:  207.1 tok/s
+  [Micro-step 8229] Loss: 7.1376 | Speed:  207.2 tok/s
+  [Micro-step 8230] Loss: 6.9089 | Speed:  224.2 tok/s
+  [Micro-step 8231] Loss: 7.0949 | Speed:  231.3 tok/s
+Step 1029/3250 (uStep 8232) | Loss: 7.3666 | GradNorm: 98783.945 | LR_scale: 0.796 | Speed:  209.5 tok/s | RSS:  922.7 MB
+  [Micro-step 8233] Loss: 6.9508 | Speed:  220.0 tok/s
+  [Micro-step 8234] Loss: 6.6000 | Speed:  253.8 tok/s
+  [Micro-step 8235] Loss: 7.0886 | Speed:  247.8 tok/s
+  [Micro-step 8236] Loss: 6.5369 | Speed:  222.0 tok/s
+  [Micro-step 8237] Loss: 7.2077 | Speed:  214.4 tok/s
+  [Micro-step 8238] Loss: 6.5240 | Speed:  196.2 tok/s
+  [Micro-step 8239] Loss: 6.9684 | Speed:  233.1 tok/s
+Step 1030/3250 (uStep 8240) | Loss: 6.8821 | GradNorm: 88287.359 | LR_scale: 0.796 | Speed:  196.1 tok/s | RSS:  922.8 MB
+  [Micro-step 8241] Loss: 7.1189 | Speed:  209.4 tok/s
+  [Micro-step 8242] Loss: 6.9878 | Speed:  198.0 tok/s
+  [Micro-step 8243] Loss: 6.7200 | Speed:  229.9 tok/s
+  [Micro-step 8244] Loss: 7.0644 | Speed:  249.7 tok/s
+  [Micro-step 8245] Loss: 6.6395 | Speed:  242.2 tok/s
+  [Micro-step 8246] Loss: 6.9719 | Speed:  199.6 tok/s
+  [Micro-step 8247] Loss: 6.8623 | Speed:  240.5 tok/s
+Step 1031/3250 (uStep 8248) | Loss: 6.7649 | GradNorm: 45649.789 | LR_scale: 0.796 | Speed:  193.2 tok/s | RSS:  909.4 MB
+  [Micro-step 8249] Loss: 6.6754 | Speed:  203.2 tok/s
+  [Micro-step 8250] Loss: 6.5273 | Speed:  226.8 tok/s
+  [Micro-step 8251] Loss: 6.9633 | Speed:  258.9 tok/s
+  [Micro-step 8252] Loss: 6.7509 | Speed:  201.7 tok/s
+  [Micro-step 8253] Loss: 6.8184 | Speed:  214.6 tok/s
+  [Micro-step 8254] Loss: 6.6585 | Speed:  208.7 tok/s
+  [Micro-step 8255] Loss: 6.8299 | Speed:  213.5 tok/s
+Step 1032/3250 (uStep 8256) | Loss: 6.5738 | GradNorm: 264503.062 | LR_scale: 0.795 | Speed:  215.3 tok/s | RSS:  909.4 MB
+  [Micro-step 8257] Loss: 6.5452 | Speed:  230.7 tok/s
+  [Micro-step 8258] Loss: 6.8408 | Speed:  238.2 tok/s
+  [Micro-step 8259] Loss: 6.7762 | Speed:  242.3 tok/s
+  [Micro-step 8260] Loss: 6.5913 | Speed:  220.7 tok/s
+  [Micro-step 8261] Loss: 6.7995 | Speed:  193.8 tok/s
+  [Micro-step 8262] Loss: 7.0529 | Speed:  230.3 tok/s
+  [Micro-step 8263] Loss: 6.4122 | Speed:  204.0 tok/s
+Step 1033/3250 (uStep 8264) | Loss: 7.1607 | GradNorm: 164800.797 | LR_scale: 0.795 | Speed:  231.6 tok/s | RSS:  845.1 MB
+  [Micro-step 8265] Loss: 6.6109 | Speed:  229.4 tok/s
+  [Micro-step 8266] Loss: 6.7014 | Speed:  207.0 tok/s
+  [Micro-step 8267] Loss: 6.3551 | Speed:  224.8 tok/s
+  [Micro-step 8268] Loss: 6.6122 | Speed:  214.3 tok/s
+  [Micro-step 8269] Loss: 6.8013 | Speed:  228.7 tok/s
+  [Micro-step 8270] Loss: 6.6826 | Speed:  233.7 tok/s
+  [Micro-step 8271] Loss: 6.8879 | Speed:  216.1 tok/s
+Step 1034/3250 (uStep 8272) | Loss: 6.7760 | GradNorm: 398340.719 | LR_scale: 0.795 | Speed:  231.3 tok/s | RSS:  845.1 MB
+  [Micro-step 8273] Loss: 6.2881 | Speed:  215.1 tok/s
+  [Micro-step 8274] Loss: 7.0298 | Speed:  238.4 tok/s
+  [Micro-step 8275] Loss: 6.8715 | Speed:  210.8 tok/s
+  [Micro-step 8276] Loss: 6.8872 | Speed:  227.2 tok/s
+  [Micro-step 8277] Loss: 7.0389 | Speed:  228.0 tok/s
+  [Micro-step 8278] Loss: 7.1630 | Speed:  225.1 tok/s
+  [Micro-step 8279] Loss: 6.7925 | Speed:  228.8 tok/s
+Step 1035/3250 (uStep 8280) | Loss: 6.6799 | GradNorm: 379793.656 | LR_scale: 0.794 | Speed:  232.1 tok/s | RSS:  851.8 MB
+  [Micro-step 8281] Loss: 6.9218 | Speed:  223.3 tok/s
+  [Micro-step 8282] Loss: 6.8500 | Speed:  207.4 tok/s
+  [Micro-step 8283] Loss: 7.1718 | Speed:  226.9 tok/s
+  [Micro-step 8284] Loss: 6.7461 | Speed:  191.4 tok/s
+  [Micro-step 8285] Loss: 7.1774 | Speed:  219.6 tok/s
+  [Micro-step 8286] Loss: 6.9356 | Speed:  236.7 tok/s
+  [Micro-step 8287] Loss: 6.9730 | Speed:  228.7 tok/s
+Step 1036/3250 (uStep 8288) | Loss: 7.1960 | GradNorm: 211137.703 | LR_scale: 0.794 | Speed:  200.5 tok/s | RSS:  845.1 MB
+  [Micro-step 8289] Loss: 6.9127 | Speed:  221.6 tok/s
+  [Micro-step 8290] Loss: 6.6978 | Speed:  231.3 tok/s
+  [Micro-step 8291] Loss: 6.8764 | Speed:  217.6 tok/s
+  [Micro-step 8292] Loss: 7.1002 | Speed:  229.4 tok/s
+  [Micro-step 8293] Loss: 6.5647 | Speed:  205.1 tok/s
+  [Micro-step 8294] Loss: 6.9634 | Speed:  228.9 tok/s
+  [Micro-step 8295] Loss: 7.1775 | Speed:  196.7 tok/s
+Step 1037/3250 (uStep 8296) | Loss: 6.8675 | GradNorm: 175000.609 | LR_scale: 0.793 | Speed:  212.3 tok/s | RSS:  865.0 MB
+  [Micro-step 8297] Loss: 6.6150 | Speed:  204.8 tok/s
+  [Micro-step 8298] Loss: 6.6576 | Speed:  219.2 tok/s
+  [Micro-step 8299] Loss: 6.9514 | Speed:  256.7 tok/s
+  [Micro-step 8300] Loss: 6.7828 | Speed:  197.0 tok/s
+  [Micro-step 8301] Loss: 6.5499 | Speed:  198.5 tok/s
+  [Micro-step 8302] Loss: 6.6162 | Speed:  232.6 tok/s
+  [Micro-step 8303] Loss: 7.0678 | Speed:  211.6 tok/s
+Step 1038/3250 (uStep 8304) | Loss: 6.9439 | GradNorm: 80040.062 | LR_scale: 0.793 | Speed:  193.7 tok/s | RSS:  862.2 MB
+  [Micro-step 8305] Loss: 6.9018 | Speed:  239.0 tok/s
+  [Micro-step 8306] Loss: 6.6853 | Speed:  242.4 tok/s
+  [Micro-step 8307] Loss: 6.9314 | Speed:  252.5 tok/s
+  [Micro-step 8308] Loss: 6.9719 | Speed:  251.6 tok/s
+  [Micro-step 8309] Loss: 6.4076 | Speed:  211.0 tok/s
+  [Micro-step 8310] Loss: 7.1557 | Speed:  208.3 tok/s
+  [Micro-step 8311] Loss: 6.9572 | Speed:  213.5 tok/s
+Step 1039/3250 (uStep 8312) | Loss: 7.0525 | GradNorm: 61426.129 | LR_scale: 0.793 | Speed:  229.3 tok/s | RSS:  863.2 MB
+  [Micro-step 8313] Loss: 6.5305 | Speed:  211.7 tok/s
+  [Micro-step 8314] Loss: 6.7459 | Speed:  213.5 tok/s
+  [Micro-step 8315] Loss: 6.7478 | Speed:  225.5 tok/s
+  [Micro-step 8316] Loss: 6.6839 | Speed:  203.7 tok/s
+  [Micro-step 8317] Loss: 7.0640 | Speed:  220.6 tok/s
+  [Micro-step 8318] Loss: 6.5237 | Speed:  218.0 tok/s
+  [Micro-step 8319] Loss: 6.8489 | Speed:  226.0 tok/s
+Step 1040/3250 (uStep 8320) | Loss: 7.1255 | GradNorm: 257991.109 | LR_scale: 0.792 | Speed:  238.5 tok/s | RSS:  825.1 MB
+  [Micro-step 8321] Loss: 6.6606 | Speed:  217.3 tok/s
+  [Micro-step 8322] Loss: 6.8927 | Speed:  226.1 tok/s
+  [Micro-step 8323] Loss: 6.7639 | Speed:  241.3 tok/s
+  [Micro-step 8324] Loss: 7.1778 | Speed:  220.2 tok/s
+  [Micro-step 8325] Loss: 7.1969 | Speed:  210.4 tok/s
+  [Micro-step 8326] Loss: 6.4820 | Speed:  248.5 tok/s
+  [Micro-step 8327] Loss: 6.9283 | Speed:  204.1 tok/s
+Step 1041/3250 (uStep 8328) | Loss: 6.6123 | GradNorm: 781217.875 | LR_scale: 0.792 | Speed:  224.3 tok/s | RSS:  830.1 MB
+  [Micro-step 8329] Loss: 6.8213 | Speed:  206.4 tok/s
+  [Micro-step 8330] Loss: 6.5359 | Speed:  244.2 tok/s
+  [Micro-step 8331] Loss: 6.8346 | Speed:  205.7 tok/s
+  [Micro-step 8332] Loss: 7.0802 | Speed:  235.5 tok/s
+  [Micro-step 8333] Loss: 7.3608 | Speed:  232.2 tok/s
+  [Micro-step 8334] Loss: 6.9805 | Speed:  213.6 tok/s
+  [Micro-step 8335] Loss: 6.6641 | Speed:  253.7 tok/s
+Step 1042/3250 (uStep 8336) | Loss: 6.9327 | GradNorm: 546825.312 | LR_scale: 0.792 | Speed:  228.3 tok/s | RSS:  825.1 MB
+  [Micro-step 8337] Loss: 6.8678 | Speed:  204.7 tok/s
+  [Micro-step 8338] Loss: 6.6263 | Speed:  248.2 tok/s
+  [Micro-step 8339] Loss: 6.8389 | Speed:  197.1 tok/s
+  [Micro-step 8340] Loss: 6.9779 | Speed:  208.0 tok/s
+  [Micro-step 8341] Loss: 6.8008 | Speed:  241.7 tok/s
+  [Micro-step 8342] Loss: 7.0260 | Speed:  237.6 tok/s
+  [Micro-step 8343] Loss: 6.8851 | Speed:  201.3 tok/s
+Step 1043/3250 (uStep 8344) | Loss: 6.5155 | GradNorm: 329541.469 | LR_scale: 0.791 | Speed:  198.1 tok/s | RSS:  849.9 MB
+  [Micro-step 8345] Loss: 6.4323 | Speed:  208.2 tok/s
+  [Micro-step 8346] Loss: 6.8532 | Speed:  230.5 tok/s
+  [Micro-step 8347] Loss: 6.6776 | Speed:  226.4 tok/s
+  [Micro-step 8348] Loss: 6.5659 | Speed:  215.2 tok/s
+  [Micro-step 8349] Loss: 6.7028 | Speed:  199.4 tok/s
+  [Micro-step 8350] Loss: 6.8953 | Speed:  223.8 tok/s
+  [Micro-step 8351] Loss: 6.6348 | Speed:  218.3 tok/s
+Step 1044/3250 (uStep 8352) | Loss: 6.8650 | GradNorm: 1608593.625 | LR_scale: 0.791 | Speed:  220.7 tok/s | RSS:  838.5 MB
+  [Micro-step 8353] Loss: 6.6973 | Speed:  201.0 tok/s
+  [Micro-step 8354] Loss: 6.7642 | Speed:  243.2 tok/s
+  [Micro-step 8355] Loss: 6.8240 | Speed:  221.4 tok/s
+  [Micro-step 8356] Loss: 6.8587 | Speed:  235.2 tok/s
+  [Micro-step 8357] Loss: 6.8247 | Speed:  210.3 tok/s
+  [Micro-step 8358] Loss: 6.5165 | Speed:  224.3 tok/s
+  [Micro-step 8359] Loss: 6.5038 | Speed:  234.7 tok/s
+Step 1045/3250 (uStep 8360) | Loss: 6.7693 | GradNorm: 153918.547 | LR_scale: 0.791 | Speed:  196.8 tok/s | RSS:  844.5 MB
+  [Micro-step 8361] Loss: 6.8707 | Speed:  233.3 tok/s
+  [Micro-step 8362] Loss: 6.9774 | Speed:  224.4 tok/s
+  [Micro-step 8363] Loss: 6.9323 | Speed:  211.7 tok/s
+  [Micro-step 8364] Loss: 6.9166 | Speed:  211.0 tok/s
+  [Micro-step 8365] Loss: 6.3974 | Speed:  236.1 tok/s
+  [Micro-step 8366] Loss: 6.6970 | Speed:  249.8 tok/s
+  [Micro-step 8367] Loss: 6.7664 | Speed:  206.4 tok/s
+Step 1046/3250 (uStep 8368) | Loss: 6.6923 | GradNorm: 1172635.125 | LR_scale: 0.790 | Speed:  190.3 tok/s | RSS:  905.2 MB
+  [Micro-step 8369] Loss: 7.1888 | Speed:  239.2 tok/s
+  [Micro-step 8370] Loss: 6.8047 | Speed:  214.3 tok/s
+  [Micro-step 8371] Loss: 6.5911 | Speed:  250.3 tok/s
+  [Micro-step 8372] Loss: 6.9431 | Speed:  238.8 tok/s
+  [Micro-step 8373] Loss: 6.4967 | Speed:  208.1 tok/s
+  [Micro-step 8374] Loss: 6.4904 | Speed:  212.0 tok/s
+  [Micro-step 8375] Loss: 6.9710 | Speed:  231.6 tok/s
+Step 1047/3250 (uStep 8376) | Loss: 6.8559 | GradNorm: 1083108.375 | LR_scale: 0.790 | Speed:  224.1 tok/s | RSS:  891.0 MB
+  [Micro-step 8377] Loss: 6.9155 | Speed:  208.6 tok/s
+  [Micro-step 8378] Loss: 6.9351 | Speed:  240.2 tok/s
+  [Micro-step 8379] Loss: 6.8591 | Speed:  198.7 tok/s
+  [Micro-step 8380] Loss: 6.8726 | Speed:  215.6 tok/s
+  [Micro-step 8381] Loss: 7.3478 | Speed:  239.4 tok/s
+  [Micro-step 8382] Loss: 6.4416 | Speed:  253.9 tok/s
+  [Micro-step 8383] Loss: 7.0690 | Speed:  201.3 tok/s
+Step 1048/3250 (uStep 8384) | Loss: 6.6544 | GradNorm: 801957.062 | LR_scale: 0.789 | Speed:  241.2 tok/s | RSS:  835.0 MB
+  [Micro-step 8385] Loss: 6.9964 | Speed:  212.3 tok/s
+  [Micro-step 8386] Loss: 6.8425 | Speed:  195.2 tok/s
+  [Micro-step 8387] Loss: 6.9076 | Speed:  198.8 tok/s
+  [Micro-step 8388] Loss: 7.5289 | Speed:  214.6 tok/s
+  [Micro-step 8389] Loss: 6.5337 | Speed:  209.9 tok/s
+  [Micro-step 8390] Loss: 6.8751 | Speed:  226.6 tok/s
+  [Micro-step 8391] Loss: 6.7121 | Speed:  189.9 tok/s
+Step 1049/3250 (uStep 8392) | Loss: 6.8676 | GradNorm: 181669.625 | LR_scale: 0.789 | Speed:  211.3 tok/s | RSS:  844.9 MB
+  [Micro-step 8393] Loss: 6.7617 | Speed:  240.2 tok/s
+  [Micro-step 8394] Loss: 6.6144 | Speed:  194.0 tok/s
+  [Micro-step 8395] Loss: 6.6351 | Speed:  195.0 tok/s
+  [Micro-step 8396] Loss: 6.7339 | Speed:  210.6 tok/s
+  [Micro-step 8397] Loss: 6.9200 | Speed:  228.3 tok/s
+  [Micro-step 8398] Loss: 6.8901 | Speed:  232.6 tok/s
+  [Micro-step 8399] Loss: 6.9573 | Speed:  219.7 tok/s
+Step 1050/3250 (uStep 8400) | Loss: 6.8176 | GradNorm: 496595.969 | LR_scale: 0.789 | Speed:  208.9 tok/s | RSS:  825.1 MB
+  --> [Validation] Val Loss: 6.8119
+  --> [Sample Story] "Once upon a time, Lily the ,.,
+, to thes to,
+ a.,  and toThe and
+,
+ the., of
+( the is in for. and the..5 and., the, and the"
+  --> [Sample Reason] "User: Is a cat an animal?
+
+Assistant:):. and \S  m.,:   al :   $ --   S  Inx"
+  --> [Checkpoint] Saved atomic checkpoint to /home/duoneural/srsn_ryzen/checkpoints/srsn_step1050.pt
+  [Micro-step 8401] Loss: 7.1558 | Speed:  239.0 tok/s
+  [Micro-step 8402] Loss: 6.4960 | Speed:  207.7 tok/s
+  [Micro-step 8403] Loss: 6.7198 | Speed:  207.8 tok/s
+  [Micro-step 8404] Loss: 6.5465 | Speed:  205.1 tok/s
+  [Micro-step 8405] Loss: 6.5675 | Speed:  221.7 tok/s
+  [Micro-step 8406] Loss: 6.7646 | Speed:  188.0 tok/s
+  [Micro-step 8407] Loss: 6.9729 | Speed:  221.8 tok/s
+Step 1051/3250 (uStep 8408) | Loss: 6.5930 | GradNorm: 445705.281 | LR_scale: 0.788 | Speed:  221.3 tok/s | RSS:  892.5 MB
+  [Micro-step 8409] Loss: 6.9369 | Speed:  224.0 tok/s
+  [Micro-step 8410] Loss: 6.8892 | Speed:  204.9 tok/s
+  [Micro-step 8411] Loss: 7.0599 | Speed:  244.5 tok/s
+  [Micro-step 8412] Loss: 6.6932 | Speed:  249.6 tok/s
+  [Micro-step 8413] Loss: 7.0982 | Speed:  191.3 tok/s
+  [Micro-step 8414] Loss: 6.5188 | Speed:  193.2 tok/s
+  [Micro-step 8415] Loss: 7.2039 | Speed:  222.0 tok/s
+Step 1052/3250 (uStep 8416) | Loss: 6.7788 | GradNorm: 87066.148 | LR_scale: 0.788 | Speed:  224.5 tok/s | RSS:  825.7 MB
+  [Micro-step 8417] Loss: 6.9767 | Speed:  219.5 tok/s
+  [Micro-step 8418] Loss: 6.7334 | Speed:  237.1 tok/s
+  [Micro-step 8419] Loss: 6.4026 | Speed:  242.5 tok/s
+  [Micro-step 8420] Loss: 6.4712 | Speed:  191.0 tok/s
+  [Micro-step 8421] Loss: 6.7207 | Speed:  217.9 tok/s
+  [Micro-step 8422] Loss: 6.5396 | Speed:  241.9 tok/s
+  [Micro-step 8423] Loss: 6.7221 | Speed:  210.4 tok/s
+Step 1053/3250 (uStep 8424) | Loss: 7.1314 | GradNorm: 223658.719 | LR_scale: 0.788 | Speed:  231.6 tok/s | RSS:  825.7 MB
+  [Micro-step 8425] Loss: 6.9122 | Speed:  189.6 tok/s
+  [Micro-step 8426] Loss: 7.2740 | Speed:  215.3 tok/s
+  [Micro-step 8427] Loss: 6.8344 | Speed:  261.5 tok/s
+  [Micro-step 8428] Loss: 6.8806 | Speed:  242.6 tok/s
+  [Micro-step 8429] Loss: 6.6705 | Speed:  211.0 tok/s
+  [Micro-step 8430] Loss: 6.6880 | Speed:  244.0 tok/s
+  [Micro-step 8431] Loss: 6.6824 | Speed:  217.3 tok/s
+Step 1054/3250 (uStep 8432) | Loss: 7.2334 | GradNorm: 26192.002 | LR_scale: 0.787 | Speed:  193.1 tok/s | RSS:  674.1 MB
+  [Micro-step 8433] Loss: 6.8007 | Speed:  228.2 tok/s
+  [Micro-step 8434] Loss: 6.7192 | Speed:  237.1 tok/s
+  [Micro-step 8435] Loss: 6.5006 | Speed:  238.9 tok/s
+  [Micro-step 8436] Loss: 6.6797 | Speed:  246.7 tok/s
+  [Micro-step 8437] Loss: 6.7736 | Speed:  239.7 tok/s
+  [Micro-step 8438] Loss: 6.9830 | Speed:  210.3 tok/s
+  [Micro-step 8439] Loss: 6.8399 | Speed:  234.5 tok/s
+Step 1055/3250 (uStep 8440) | Loss: 6.6869 | GradNorm: 396436.094 | LR_scale: 0.787 | Speed:  245.7 tok/s | RSS:  687.5 MB
+  [Micro-step 8441] Loss: 6.9148 | Speed:  176.7 tok/s
+  [Micro-step 8442] Loss: 7.0696 | Speed:  229.9 tok/s
+  [Micro-step 8443] Loss: 6.7796 | Speed:  201.2 tok/s
+  [Micro-step 8444] Loss: 6.7391 | Speed:  240.1 tok/s
+  [Micro-step 8445] Loss: 7.1095 | Speed:  206.1 tok/s
+  [Micro-step 8446] Loss: 6.9664 | Speed:  222.7 tok/s
+  [Micro-step 8447] Loss: 7.4152 | Speed:  218.3 tok/s
+Step 1056/3250 (uStep 8448) | Loss: 7.1714 | GradNorm: 1045160.062 | LR_scale: 0.786 | Speed:  253.6 tok/s | RSS:  699.1 MB
+  [Micro-step 8449] Loss: 6.9072 | Speed:  242.5 tok/s
+  [Micro-step 8450] Loss: 7.0575 | Speed:  219.0 tok/s
+  [Micro-step 8451] Loss: 6.9317 | Speed:  228.2 tok/s
+  [Micro-step 8452] Loss: 7.3097 | Speed:  225.2 tok/s
+  [Micro-step 8453] Loss: 6.9655 | Speed:  195.6 tok/s
+  [Micro-step 8454] Loss: 6.7878 | Speed:  233.3 tok/s
+  [Micro-step 8455] Loss: 7.1967 | Speed:  236.7 tok/s
+Step 1057/3250 (uStep 8456) | Loss: 6.7440 | GradNorm: 61224.223 | LR_scale: 0.786 | Speed:  241.7 tok/s | RSS:  674.1 MB
+  [Micro-step 8457] Loss: 7.1148 | Speed:  211.5 tok/s
+  [Micro-step 8458] Loss: 6.8264 | Speed:  211.9 tok/s
+  [Micro-step 8459] Loss: 6.5789 | Speed:  219.7 tok/s
+  [Micro-step 8460] Loss: 6.8360 | Speed:  217.3 tok/s
+  [Micro-step 8461] Loss: 6.7765 | Speed:  218.4 tok/s
+  [Micro-step 8462] Loss: 6.9388 | Speed:  215.3 tok/s
+  [Micro-step 8463] Loss: 6.5658 | Speed:  216.2 tok/s
+Step 1058/3250 (uStep 8464) | Loss: 7.2066 | GradNorm: 63210.770 | LR_scale: 0.786 | Speed:  195.9 tok/s | RSS:  689.0 MB
+  [Micro-step 8465] Loss: 6.7003 | Speed:  243.2 tok/s
+  [Micro-step 8466] Loss: 6.5823 | Speed:  224.2 tok/s
+  [Micro-step 8467] Loss: 6.7637 | Speed:  218.8 tok/s
+  [Micro-step 8468] Loss: 6.8851 | Speed:  220.3 tok/s
+  [Micro-step 8469] Loss: 6.6411 | Speed:  203.7 tok/s
+  [Micro-step 8470] Loss: 6.6967 | Speed:  201.3 tok/s
+  [Micro-step 8471] Loss: 6.7067 | Speed:  227.1 tok/s
+Step 1059/3250 (uStep 8472) | Loss: 6.8323 | GradNorm: 52296.965 | LR_scale: 0.785 | Speed:  189.9 tok/s | RSS:  687.4 MB
+  [Micro-step 8473] Loss: 6.5650 | Speed:  220.0 tok/s
+  [Micro-step 8474] Loss: 6.9845 | Speed:  258.1 tok/s
+  [Micro-step 8475] Loss: 7.0872 | Speed:  206.6 tok/s
+  [Micro-step 8476] Loss: 6.8091 | Speed:  202.9 tok/s
+  [Micro-step 8477] Loss: 6.6658 | Speed:  200.4 tok/s
+  [Micro-step 8478] Loss: 6.5271 | Speed:  222.5 tok/s
+  [Micro-step 8479] Loss: 6.6330 | Speed:  231.2 tok/s
+Step 1060/3250 (uStep 8480) | Loss: 6.9934 | GradNorm: 22761.465 | LR_scale: 0.785 | Speed:  231.5 tok/s | RSS:  689.2 MB
+  [Micro-step 8481] Loss: 6.9935 | Speed:  219.7 tok/s
+  [Micro-step 8482] Loss: 6.5144 | Speed:  214.0 tok/s
+  [Micro-step 8483] Loss: 7.1554 | Speed:  214.0 tok/s
+  [Micro-step 8484] Loss: 6.9606 | Speed:  209.3 tok/s
+  [Micro-step 8485] Loss: 6.7984 | Speed:  259.7 tok/s
+  [Micro-step 8486] Loss: 7.1137 | Speed:  228.7 tok/s
+  [Micro-step 8487] Loss: 6.8059 | Speed:  202.7 tok/s
+Step 1061/3250 (uStep 8488) | Loss: 6.9763 | GradNorm: 36408.555 | LR_scale: 0.785 | Speed:  200.3 tok/s | RSS:  717.2 MB
+  [Micro-step 8489] Loss: 6.9703 | Speed:  204.8 tok/s
+  [Micro-step 8490] Loss: 6.6886 | Speed:  240.4 tok/s
+  [Micro-step 8491] Loss: 6.7716 | Speed:  241.9 tok/s
+  [Micro-step 8492] Loss: 7.0564 | Speed:  224.6 tok/s
+  [Micro-step 8493] Loss: 6.7862 | Speed:  215.2 tok/s
+  [Micro-step 8494] Loss: 7.2097 | Speed:  256.4 tok/s
+  [Micro-step 8495] Loss: 6.8272 | Speed:  221.4 tok/s
+Step 1062/3250 (uStep 8496) | Loss: 6.6643 | GradNorm: 32191.578 | LR_scale: 0.784 | Speed:  220.2 tok/s | RSS:  674.2 MB
+  [Micro-step 8497] Loss: 6.9312 | Speed:  243.6 tok/s
+  [Micro-step 8498] Loss: 6.9867 | Speed:  228.4 tok/s
+  [Micro-step 8499] Loss: 6.8264 | Speed:  220.5 tok/s
+  [Micro-step 8500] Loss: 6.7682 | Speed:  248.8 tok/s
+  [Micro-step 8501] Loss: 7.0717 | Speed:  211.4 tok/s
+  [Micro-step 8502] Loss: 6.3000 | Speed:  247.2 tok/s
+  [Micro-step 8503] Loss: 6.7047 | Speed:  249.6 tok/s
+Step 1063/3250 (uStep 8504) | Loss: 6.9034 | GradNorm: 9910.564 | LR_scale: 0.784 | Speed:  224.3 tok/s | RSS:  674.2 MB
+  [Micro-step 8505] Loss: 6.4674 | Speed:  227.3 tok/s
+  [Micro-step 8506] Loss: 6.5479 | Speed:  200.2 tok/s
+  [Micro-step 8507] Loss: 6.5067 | Speed:  195.1 tok/s
+  [Micro-step 8508] Loss: 6.9260 | Speed:  194.8 tok/s
+  [Micro-step 8509] Loss: 6.8728 | Speed:  247.5 tok/s
+  [Micro-step 8510] Loss: 6.8753 | Speed:  224.8 tok/s
+  [Micro-step 8511] Loss: 6.7965 | Speed:  208.4 tok/s
+Step 1064/3250 (uStep 8512) | Loss: 6.9669 | GradNorm: 14819.917 | LR_scale: 0.783 | Speed:  202.4 tok/s | RSS:  674.2 MB
+  [Micro-step 8513] Loss: 7.0457 | Speed:  246.8 tok/s
+  [Micro-step 8514] Loss: 6.6843 | Speed:  232.2 tok/s
+  [Micro-step 8515] Loss: 6.8263 | Speed:  209.4 tok/s
+  [Micro-step 8516] Loss: 6.8770 | Speed:  188.1 tok/s
+  [Micro-step 8517] Loss: 6.6630 | Speed:  261.4 tok/s
+  [Micro-step 8518] Loss: 6.9179 | Speed:  231.3 tok/s
+  [Micro-step 8519] Loss: 6.8211 | Speed:  228.9 tok/s
+Step 1065/3250 (uStep 8520) | Loss: 6.9130 | GradNorm: 54497.367 | LR_scale: 0.783 | Speed:  241.9 tok/s | RSS:  674.2 MB
+  [Micro-step 8521] Loss: 6.5758 | Speed:  223.5 tok/s
+  [Micro-step 8522] Loss: 6.9669 | Speed:  233.8 tok/s
+  [Micro-step 8523] Loss: 7.0215 | Speed:  245.4 tok/s
+  [Micro-step 8524] Loss: 6.8384 | Speed:  206.8 tok/s
+  [Micro-step 8525] Loss: 6.9827 | Speed:  197.2 tok/s
+  [Micro-step 8526] Loss: 7.2076 | Speed:  222.8 tok/s
+  [Micro-step 8527] Loss: 7.0236 | Speed:  213.8 tok/s
+Step 1066/3250 (uStep 8528) | Loss: 6.9562 | GradNorm: 214185.344 | LR_scale: 0.783 | Speed:  241.1 tok/s | RSS:  699.2 MB
+  [Micro-step 8529] Loss: 7.0008 | Speed:  218.6 tok/s
+  [Micro-step 8530] Loss: 6.8650 | Speed:  260.3 tok/s
+  [Micro-step 8531] Loss: 6.8867 | Speed:  208.4 tok/s
+  [Micro-step 8532] Loss: 6.7768 | Speed:  189.3 tok/s
+  [Micro-step 8533] Loss: 7.0585 | Speed:  234.2 tok/s
+  [Micro-step 8534] Loss: 6.6879 | Speed:  218.8 tok/s
+  [Micro-step 8535] Loss: 6.7280 | Speed:  217.0 tok/s
+Step 1067/3250 (uStep 8536) | Loss: 6.8208 | GradNorm: 5719.695 | LR_scale: 0.782 | Speed:  239.5 tok/s | RSS:  684.2 MB
+  [Micro-step 8537] Loss: 6.9295 | Speed:  231.3 tok/s
+  [Micro-step 8538] Loss: 6.8120 | Speed:  213.1 tok/s
+  [Micro-step 8539] Loss: 6.7911 | Speed:  233.8 tok/s
+  [Micro-step 8540] Loss: 6.9527 | Speed:  211.7 tok/s
+  [Micro-step 8541] Loss: 6.6904 | Speed:  214.2 tok/s
+  [Micro-step 8542] Loss: 7.2169 | Speed:  223.4 tok/s
+  [Micro-step 8543] Loss: 6.8796 | Speed:  223.0 tok/s
+Step 1068/3250 (uStep 8544) | Loss: 6.7579 | GradNorm: 15580.366 | LR_scale: 0.782 | Speed:  203.3 tok/s | RSS:  727.6 MB
+  [Micro-step 8545] Loss: 6.9957 | Speed:  232.1 tok/s
+  [Micro-step 8546] Loss: 6.8387 | Speed:  230.2 tok/s
+  [Micro-step 8547] Loss: 6.8024 | Speed:  223.4 tok/s
+  [Micro-step 8548] Loss: 7.0354 | Speed:  198.2 tok/s
+  [Micro-step 8549] Loss: 6.7639 | Speed:  221.7 tok/s
+  [Micro-step 8550] Loss: 7.0501 | Speed:  226.0 tok/s
+  [Micro-step 8551] Loss: 6.7637 | Speed:  236.0 tok/s
+Step 1069/3250 (uStep 8552) | Loss: 6.4721 | GradNorm: 2628.613 | LR_scale: 0.782 | Speed:  198.4 tok/s | RSS:  708.4 MB
+  [Micro-step 8553] Loss: 6.7649 | Speed:  219.6 tok/s
+  [Micro-step 8554] Loss: 6.5276 | Speed:  219.6 tok/s
+  [Micro-step 8555] Loss: 6.6665 | Speed:  213.7 tok/s
+  [Micro-step 8556] Loss: 6.8536 | Speed:  239.2 tok/s
+  [Micro-step 8557] Loss: 6.9331 | Speed:  205.8 tok/s
+  [Micro-step 8558] Loss: 6.8656 | Speed:  211.6 tok/s
+  [Micro-step 8559] Loss: 6.8897 | Speed:  191.7 tok/s
+Step 1070/3250 (uStep 8560) | Loss: 7.4090 | GradNorm: 669914.062 | LR_scale: 0.781 | Speed:  186.6 tok/s | RSS:  688.6 MB
+  [Micro-step 8561] Loss: 7.0391 | Speed:  194.5 tok/s
+  [Micro-step 8562] Loss: 6.9014 | Speed:  217.1 tok/s
+  [Micro-step 8563] Loss: 7.1283 | Speed:  244.3 tok/s
+  [Micro-step 8564] Loss: 7.2723 | Speed:  195.5 tok/s
+  [Micro-step 8565] Loss: 7.2395 | Speed:  212.3 tok/s
+  [Micro-step 8566] Loss: 6.7307 | Speed:  262.1 tok/s
+  [Micro-step 8567] Loss: 6.9273 | Speed:  200.0 tok/s
+Step 1071/3250 (uStep 8568) | Loss: 7.2011 | GradNorm: 9315.063 | LR_scale: 0.781 | Speed:  222.6 tok/s | RSS:  691.0 MB
+  [Micro-step 8569] Loss: 6.5315 | Speed:  236.2 tok/s
+  [Micro-step 8570] Loss: 6.6949 | Speed:  224.9 tok/s
+  [Micro-step 8571] Loss: 6.7517 | Speed:  211.9 tok/s
+  [Micro-step 8572] Loss: 6.5912 | Speed:  218.1 tok/s
+  [Micro-step 8573] Loss: 6.6882 | Speed:  206.5 tok/s
+  [Micro-step 8574] Loss: 6.2811 | Speed:  227.7 tok/s
+  [Micro-step 8575] Loss: 6.4962 | Speed:  199.2 tok/s
+Step 1072/3250 (uStep 8576) | Loss: 7.0478 | GradNorm: 5169.112 | LR_scale: 0.781 | Speed:  209.6 tok/s | RSS:  674.2 MB
+  [Micro-step 8577] Loss: 7.1203 | Speed:  213.5 tok/s
+  [Micro-step 8578] Loss: 7.0037 | Speed:  229.4 tok/s
+  [Micro-step 8579] Loss: 6.7349 | Speed:  205.1 tok/s
+  [Micro-step 8580] Loss: 6.6647 | Speed:  220.5 tok/s
+  [Micro-step 8581] Loss: 6.7056 | Speed:  227.7 tok/s
+  [Micro-step 8582] Loss: 6.9082 | Speed:  203.7 tok/s
+  [Micro-step 8583] Loss: 6.7608 | Speed:  254.9 tok/s
+Step 1073/3250 (uStep 8584) | Loss: 6.7528 | GradNorm: 1187.920 | LR_scale: 0.780 | Speed:  214.3 tok/s | RSS:  674.2 MB
+  [Micro-step 8585] Loss: 6.6762 | Speed:  227.2 tok/s
+  [Micro-step 8586] Loss: 7.2947 | Speed:  210.5 tok/s
+  [Micro-step 8587] Loss: 6.5760 | Speed:  229.7 tok/s
+  [Micro-step 8588] Loss: 7.1438 | Speed:  233.7 tok/s
+  [Micro-step 8589] Loss: 6.6561 | Speed:  193.5 tok/s
+  [Micro-step 8590] Loss: 6.9440 | Speed:  235.0 tok/s
+  [Micro-step 8591] Loss: 7.3619 | Speed:  234.4 tok/s
+Step 1074/3250 (uStep 8592) | Loss: 6.9462 | GradNorm: 154692.547 | LR_scale: 0.780 | Speed:  226.0 tok/s | RSS:  684.1 MB
+  [Micro-step 8593] Loss: 7.0738 | Speed:  225.4 tok/s
+  [Micro-step 8594] Loss: 7.2327 | Speed:  219.6 tok/s
+  [Micro-step 8595] Loss: 6.6994 | Speed:  225.6 tok/s
+  [Micro-step 8596] Loss: 6.7084 | Speed:  224.5 tok/s
+  [Micro-step 8597] Loss: 7.0509 | Speed:  236.3 tok/s
+  [Micro-step 8598] Loss: 7.1013 | Speed:  197.8 tok/s
+  [Micro-step 8599] Loss: 6.8208 | Speed:  225.6 tok/s
+Step 1075/3250 (uStep 8600) | Loss: 7.1886 | GradNorm: 3388.899 | LR_scale: 0.779 | Speed:  209.0 tok/s | RSS:  674.2 MB
+  --> [Validation] Val Loss: 6.5973
+  --> [Sample Story] "Once upon a time, Lily. the said... the, the 
+(
+ and
+, in., the} the, the that.2,: a $  to�*. of, and. in- the..,,"
+  --> [Sample Reason] "User: Is a cat an animal?
+
+Assistant:s,1
+ the,-1 to to . bes}. the to$,* was on to
+.. to*
+s."
+  --> [Checkpoint] Saved atomic checkpoint to /home/duoneural/srsn_ryzen/checkpoints/srsn_step1075.pt
+  [Micro-step 8601] Loss: 6.6860 | Speed:  233.8 tok/s
+  [Micro-step 8602] Loss: 6.7838 | Speed:  216.6 tok/s
+  [Micro-step 8603] Loss: 6.7774 | Speed:  238.4 tok/s
+  [Micro-step 8604] Loss: 6.8162 | Speed:  197.8 tok/s
+  [Micro-step 8605] Loss: 6.9439 | Speed:  201.3 tok/s
+  [Micro-step 8606] Loss: 6.8857 | Speed:  251.6 tok/s
+  [Micro-step 8607] Loss: 6.2827 | Speed:  210.3 tok/s
+Step 1076/3250 (uStep 8608) | Loss: 6.7427 | GradNorm: 45567.457 | LR_scale: 0.779 | Speed:  245.9 tok/s | RSS:  674.7 MB
+  [Micro-step 8609] Loss: 7.1695 | Speed:  209.3 tok/s
+  [Micro-step 8610] Loss: 6.9475 | Speed:  222.3 tok/s
+  [Micro-step 8611] Loss: 6.7863 | Speed:  246.5 tok/s
+  [Micro-step 8612] Loss: 6.7838 | Speed:  208.2 tok/s
+  [Micro-step 8613] Loss: 6.9842 | Speed:  205.0 tok/s
+  [Micro-step 8614] Loss: 6.8048 | Speed:  235.4 tok/s
+  [Micro-step 8615] Loss: 7.0824 | Speed:  215.2 tok/s
+Step 1077/3250 (uStep 8616) | Loss: 6.7940 | GradNorm: 5062.345 | LR_scale: 0.779 | Speed:  195.2 tok/s | RSS:  674.7 MB
+  [Micro-step 8617] Loss: 6.9311 | Speed:  225.5 tok/s
+  [Micro-step 8618] Loss: 6.9580 | Speed:  235.1 tok/s
+  [Micro-step 8619] Loss: 6.6091 | Speed:  207.9 tok/s
+  [Micro-step 8620] Loss: 7.1104 | Speed:  218.6 tok/s
+  [Micro-step 8621] Loss: 6.7539 | Speed:  228.7 tok/s
+  [Micro-step 8622] Loss: 6.8545 | Speed:  223.8 tok/s
+  [Micro-step 8623] Loss: 6.6059 | Speed:  199.6 tok/s
+Step 1078/3250 (uStep 8624) | Loss: 6.6341 | GradNorm: 6448.419 | LR_scale: 0.778 | Speed:  242.2 tok/s | RSS:  718.1 MB
+  [Micro-step 8625] Loss: 7.0808 | Speed:  220.4 tok/s
+  [Micro-step 8626] Loss: 6.9116 | Speed:  240.3 tok/s
+  [Micro-step 8627] Loss: 7.0127 | Speed:  217.7 tok/s
+  [Micro-step 8628] Loss: 7.0609 | Speed:  228.6 tok/s
+  [Micro-step 8629] Loss: 6.9504 | Speed:  195.9 tok/s
+  [Micro-step 8630] Loss: 6.6949 | Speed:  229.2 tok/s
+  [Micro-step 8631] Loss: 6.8309 | Speed:  231.7 tok/s
+Step 1079/3250 (uStep 8632) | Loss: 7.2866 | GradNorm: 12128.960 | LR_scale: 0.778 | Speed:  238.0 tok/s | RSS:  674.8 MB
+  [Micro-step 8633] Loss: 6.3014 | Speed:  222.6 tok/s
+  [Micro-step 8634] Loss: 6.9386 | Speed:  236.4 tok/s
+  [Micro-step 8635] Loss: 7.3789 | Speed:  203.6 tok/s
+  [Micro-step 8636] Loss: 6.7915 | Speed:  217.3 tok/s
+  [Micro-step 8637] Loss: 7.3150 | Speed:  219.4 tok/s
+  [Micro-step 8638] Loss: 7.0337 | Speed:  205.8 tok/s
+  [Micro-step 8639] Loss: 6.5544 | Speed:  223.8 tok/s
+Step 1080/3250 (uStep 8640) | Loss: 7.0357 | GradNorm: 48702.070 | LR_scale: 0.778 | Speed:  240.0 tok/s | RSS:  694.2 MB
+  [Micro-step 8641] Loss: 6.6890 | Speed:  208.1 tok/s
+  [Micro-step 8642] Loss: 6.9355 | Speed:  217.1 tok/s
+  [Micro-step 8643] Loss: 7.1551 | Speed:  199.8 tok/s
+  [Micro-step 8644] Loss: 7.0656 | Speed:  237.6 tok/s
+  [Micro-step 8645] Loss: 6.6303 | Speed:  244.5 tok/s
+  [Micro-step 8646] Loss: 6.6119 | Speed:  216.8 tok/s
+  [Micro-step 8647] Loss: 6.8933 | Speed:  242.8 tok/s
+Step 1081/3250 (uStep 8648) | Loss: 6.7316 | GradNorm: 593245.188 | LR_scale: 0.777 | Speed:  213.6 tok/s | RSS:  694.8 MB
+  [Micro-step 8649] Loss: 6.5828 | Speed:  229.1 tok/s
+  [Micro-step 8650] Loss: 6.9937 | Speed:  232.7 tok/s
+  [Micro-step 8651] Loss: 6.8638 | Speed:  189.1 tok/s
+  [Micro-step 8652] Loss: 6.8256 | Speed:  208.5 tok/s
+  [Micro-step 8653] Loss: 6.5642 | Speed:  261.4 tok/s
+  [Micro-step 8654] Loss: 6.9592 | Speed:  237.7 tok/s
+  [Micro-step 8655] Loss: 7.0548 | Speed:  229.4 tok/s
+Step 1082/3250 (uStep 8656) | Loss: 7.1236 | GradNorm: 13652.848 | LR_scale: 0.777 | Speed:  214.5 tok/s | RSS:  689.8 MB
+  [Micro-step 8657] Loss: 6.7725 | Speed:  220.6 tok/s
+  [Micro-step 8658] Loss: 7.1923 | Speed:  235.9 tok/s
+  [Micro-step 8659] Loss: 6.9066 | Speed:  235.6 tok/s
+  [Micro-step 8660] Loss: 7.2925 | Speed:  235.0 tok/s
+  [Micro-step 8661] Loss: 6.4729 | Speed:  221.9 tok/s
+  [Micro-step 8662] Loss: 6.6424 | Speed:  248.3 tok/s
+  [Micro-step 8663] Loss: 7.2840 | Speed:  240.0 tok/s
+Step 1083/3250 (uStep 8664) | Loss: 7.0347 | GradNorm: 572893.000 | LR_scale: 0.776 | Speed:  224.4 tok/s | RSS:  674.8 MB
+  [Micro-step 8665] Loss: 6.9674 | Speed:  252.0 tok/s
+  [Micro-step 8666] Loss: 6.5209 | Speed:  214.7 tok/s
+  [Micro-step 8667] Loss: 6.9943 | Speed:  238.3 tok/s
+  [Micro-step 8668] Loss: 6.8486 | Speed:  223.4 tok/s
+  [Micro-step 8669] Loss: 6.9485 | Speed:  205.7 tok/s
+  [Micro-step 8670] Loss: 7.1667 | Speed:  193.6 tok/s
+  [Micro-step 8671] Loss: 6.9103 | Speed:  219.1 tok/s
+Step 1084/3250 (uStep 8672) | Loss: 7.1569 | GradNorm: 91402.977 | LR_scale: 0.776 | Speed:  233.3 tok/s | RSS:  674.8 MB
+  [Micro-step 8673] Loss: 7.1053 | Speed:  216.2 tok/s
+  [Micro-step 8674] Loss: 6.4431 | Speed:  220.8 tok/s
+  [Micro-step 8675] Loss: 6.7117 | Speed:  228.5 tok/s
+  [Micro-step 8676] Loss: 7.0966 | Speed:  223.6 tok/s
+  [Micro-step 8677] Loss: 7.2423 | Speed:  210.8 tok/s
+  [Micro-step 8678] Loss: 6.8255 | Speed:  202.7 tok/s
+  [Micro-step 8679] Loss: 7.1040 | Speed:  189.6 tok/s
+Step 1085/3250 (uStep 8680) | Loss: 7.0814 | GradNorm: 11999.168 | LR_scale: 0.776 | Speed:  231.8 tok/s | RSS:  694.6 MB
+  [Micro-step 8681] Loss: 6.8511 | Speed:  214.2 tok/s
+  [Micro-step 8682] Loss: 6.9541 | Speed:  197.3 tok/s
+  [Micro-step 8683] Loss: 6.7043 | Speed:  232.1 tok/s
+  [Micro-step 8684] Loss: 7.1179 | Speed:  215.4 tok/s
+  [Micro-step 8685] Loss: 7.2580 | Speed:  228.4 tok/s
+  [Micro-step 8686] Loss: 7.1405 | Speed:  244.9 tok/s
+  [Micro-step 8687] Loss: 6.9764 | Speed:  227.0 tok/s
+Step 1086/3250 (uStep 8688) | Loss: 7.0056 | GradNorm: 11817.354 | LR_scale: 0.775 | Speed:  228.6 tok/s | RSS:  713.4 MB
+  [Micro-step 8689] Loss: 6.8536 | Speed:  200.3 tok/s
+  [Micro-step 8690] Loss: 6.8323 | Speed:  245.1 tok/s
+  [Micro-step 8691] Loss: 6.8581 | Speed:  239.9 tok/s
+  [Micro-step 8692] Loss: 6.9211 | Speed:  214.9 tok/s
+  [Micro-step 8693] Loss: 6.7499 | Speed:  214.0 tok/s
+  [Micro-step 8694] Loss: 6.1910 | Speed:  253.3 tok/s
+  [Micro-step 8695] Loss: 7.1002 | Speed:  191.6 tok/s
+Step 1087/3250 (uStep 8696) | Loss: 7.0895 | GradNorm: 10161.120 | LR_scale: 0.775 | Speed:  167.4 tok/s | RSS:  707.2 MB
+  [Micro-step 8697] Loss: 6.7610 | Speed:  254.0 tok/s
+  [Micro-step 8698] Loss: 7.0283 | Speed:  231.6 tok/s
+  [Micro-step 8699] Loss: 7.1261 | Speed:  214.3 tok/s
+  [Micro-step 8700] Loss: 6.5296 | Speed:  213.3 tok/s
+  [Micro-step 8701] Loss: 7.0914 | Speed:  237.1 tok/s
+  [Micro-step 8702] Loss: 6.6469 | Speed:  225.4 tok/s
+  [Micro-step 8703] Loss: 6.9736 | Speed:  209.5 tok/s
+Step 1088/3250 (uStep 8704) | Loss: 6.7065 | GradNorm: 15453.349 | LR_scale: 0.774 | Speed:  226.4 tok/s | RSS:  699.8 MB
+  [Micro-step 8705] Loss: 6.7254 | Speed:  204.2 tok/s
+  [Micro-step 8706] Loss: 7.2321 | Speed:  259.9 tok/s
+  [Micro-step 8707] Loss: 6.5903 | Speed:  223.1 tok/s
+  [Micro-step 8708] Loss: 6.9078 | Speed:  186.7 tok/s
+  [Micro-step 8709] Loss: 6.8625 | Speed:  241.5 tok/s
+  [Micro-step 8710] Loss: 6.6590 | Speed:  232.7 tok/s
+  [Micro-step 8711] Loss: 6.7399 | Speed:  233.5 tok/s
+Step 1089/3250 (uStep 8712) | Loss: 6.5553 | GradNorm: 2880.451 | LR_scale: 0.774 | Speed:  223.9 tok/s | RSS:  688.0 MB
+  [Micro-step 8713] Loss: 6.8936 | Speed:  234.0 tok/s
+  [Micro-step 8714] Loss: 6.6965 | Speed:  230.5 tok/s
+  [Micro-step 8715] Loss: 6.4672 | Speed:  212.3 tok/s
+  [Micro-step 8716] Loss: 6.8360 | Speed:  214.3 tok/s
+  [Micro-step 8717] Loss: 6.9618 | Speed:  216.0 tok/s
+  [Micro-step 8718] Loss: 6.6936 | Speed:  259.0 tok/s
+  [Micro-step 8719] Loss: 6.7443 | Speed:  211.8 tok/s
+Step 1090/3250 (uStep 8720) | Loss: 6.8529 | GradNorm: 14909.109 | LR_scale: 0.774 | Speed:  226.6 tok/s | RSS:  674.8 MB
+  [Micro-step 8721] Loss: 7.0563 | Speed:  187.6 tok/s
+  [Micro-step 8722] Loss: 6.7061 | Speed:  223.8 tok/s
+  [Micro-step 8723] Loss: 6.3434 | Speed:  253.1 tok/s
+  [Micro-step 8724] Loss: 6.8815 | Speed:  216.6 tok/s
+  [Micro-step 8725] Loss: 6.8420 | Speed:  228.4 tok/s
+  [Micro-step 8726] Loss: 6.8661 | Speed:  231.8 tok/s
+  [Micro-step 8727] Loss: 6.7726 | Speed:  232.2 tok/s
+Step 1091/3250 (uStep 8728) | Loss: 6.9491 | GradNorm: 24434.117 | LR_scale: 0.773 | Speed:  221.2 tok/s | RSS:  698.2 MB
+  [Micro-step 8729] Loss: 6.6575 | Speed:  231.9 tok/s
+  [Micro-step 8730] Loss: 6.8471 | Speed:  226.2 tok/s
+  [Micro-step 8731] Loss: 7.0397 | Speed:  222.6 tok/s
+  [Micro-step 8732] Loss: 6.9105 | Speed:  220.0 tok/s
+  [Micro-step 8733] Loss: 7.2026 | Speed:  241.3 tok/s
+  [Micro-step 8734] Loss: 7.0941 | Speed:  225.7 tok/s
+  [Micro-step 8735] Loss: 7.0370 | Speed:  191.7 tok/s
+Step 1092/3250 (uStep 8736) | Loss: 6.6436 | GradNorm: 20309.707 | LR_scale: 0.773 | Speed:  224.5 tok/s | RSS:  694.6 MB
+  [Micro-step 8737] Loss: 6.8848 | Speed:  223.4 tok/s
+  [Micro-step 8738] Loss: 7.2041 | Speed:  214.1 tok/s
+  [Micro-step 8739] Loss: 6.8591 | Speed:  262.9 tok/s
+  [Micro-step 8740] Loss: 6.7088 | Speed:  247.9 tok/s
+  [Micro-step 8741] Loss: 6.4351 | Speed:  213.3 tok/s
+  [Micro-step 8742] Loss: 7.1965 | Speed:  224.4 tok/s
+  [Micro-step 8743] Loss: 7.3061 | Speed:  229.2 tok/s
+Step 1093/3250 (uStep 8744) | Loss: 6.9099 | GradNorm: 22638.934 | LR_scale: 0.773 | Speed:  227.1 tok/s | RSS:  689.6 MB
+  [Micro-step 8745] Loss: 6.4340 | Speed:  226.8 tok/s
+  [Micro-step 8746] Loss: 6.5103 | Speed:  215.2 tok/s
+  [Micro-step 8747] Loss: 6.8316 | Speed:  195.7 tok/s
+  [Micro-step 8748] Loss: 6.5242 | Speed:  246.7 tok/s
+  [Micro-step 8749] Loss: 6.8139 | Speed:  197.6 tok/s
+  [Micro-step 8750] Loss: 7.0731 | Speed:  260.2 tok/s
+  [Micro-step 8751] Loss: 6.6467 | Speed:  230.9 tok/s
+Step 1094/3250 (uStep 8752) | Loss: 6.7261 | GradNorm: 503933.031 | LR_scale: 0.772 | Speed:  230.0 tok/s | RSS:  704.6 MB
+  [Micro-step 8753] Loss: 7.0080 | Speed:  225.5 tok/s
+  [Micro-step 8754] Loss: 6.8740 | Speed:  239.9 tok/s
+  [Micro-step 8755] Loss: 6.3952 | Speed:  213.2 tok/s
+  [Micro-step 8756] Loss: 7.0855 | Speed:  252.4 tok/s
+  [Micro-step 8757] Loss: 6.7804 | Speed:  199.5 tok/s
+  [Micro-step 8758] Loss: 6.9741 | Speed:  201.9 tok/s
+  [Micro-step 8759] Loss: 6.9416 | Speed:  224.8 tok/s
+Step 1095/3250 (uStep 8760) | Loss: 6.7326 | GradNorm: 4214.405 | LR_scale: 0.772 | Speed:  238.9 tok/s | RSS:  714.2 MB
+  [Micro-step 8761] Loss: 6.5498 | Speed:  254.3 tok/s
+  [Micro-step 8762] Loss: 6.9231 | Speed:  216.0 tok/s
+  [Micro-step 8763] Loss: 6.7263 | Speed:  222.9 tok/s
+  [Micro-step 8764] Loss: 6.6521 | Speed:  205.4 tok/s
+  [Micro-step 8765] Loss: 7.1685 | Speed:  242.2 tok/s
+  [Micro-step 8766] Loss: 6.6829 | Speed:  216.3 tok/s
+  [Micro-step 8767] Loss: 6.6986 | Speed:  237.4 tok/s
+Step 1096/3250 (uStep 8768) | Loss: 6.4588 | GradNorm: 15703.138 | LR_scale: 0.771 | Speed:  195.6 tok/s | RSS:  727.1 MB
+  [Micro-step 8769] Loss: 6.3085 | Speed:  266.0 tok/s
+  [Micro-step 8770] Loss: 7.2221 | Speed:  215.4 tok/s
+  [Micro-step 8771] Loss: 7.0361 | Speed:  199.7 tok/s
+  [Micro-step 8772] Loss: 6.7803 | Speed:  204.8 tok/s
+  [Micro-step 8773] Loss: 7.0998 | Speed:  255.5 tok/s
+  [Micro-step 8774] Loss: 6.5622 | Speed:  233.6 tok/s
+  [Micro-step 8775] Loss: 6.9995 | Speed:  224.0 tok/s
+Step 1097/3250 (uStep 8776) | Loss: 7.1040 | GradNorm: 67731.172 | LR_scale: 0.771 | Speed:  224.5 tok/s | RSS:  698.2 MB
+  [Micro-step 8777] Loss: 7.3202 | Speed:  221.8 tok/s
+  [Micro-step 8778] Loss: 6.9407 | Speed:  249.4 tok/s
+  [Micro-step 8779] Loss: 6.9362 | Speed:  232.4 tok/s
+  [Micro-step 8780] Loss: 6.5195 | Speed:  224.1 tok/s
+  [Micro-step 8781] Loss: 6.6084 | Speed:  257.3 tok/s
+  [Micro-step 8782] Loss: 6.7858 | Speed:  214.2 tok/s
+  [Micro-step 8783] Loss: 6.9674 | Speed:  214.3 tok/s
+Step 1098/3250 (uStep 8784) | Loss: 6.7110 | GradNorm: 81987.547 | LR_scale: 0.771 | Speed:  241.8 tok/s | RSS:  689.8 MB
+  [Micro-step 8785] Loss: 6.8952 | Speed:  206.2 tok/s
+  [Micro-step 8786] Loss: 6.8917 | Speed:  239.2 tok/s
+  [Micro-step 8787] Loss: 6.4242 | Speed:  221.2 tok/s
+  [Micro-step 8788] Loss: 7.0586 | Speed:  241.1 tok/s
+  [Micro-step 8789] Loss: 6.8401 | Speed:  230.2 tok/s
+  [Micro-step 8790] Loss: 6.6549 | Speed:  189.8 tok/s
+  [Micro-step 8791] Loss: 7.0182 | Speed:  227.6 tok/s
+Step 1099/3250 (uStep 8792) | Loss: 6.5802 | GradNorm: 7398.724 | LR_scale: 0.770 | Speed:  220.3 tok/s | RSS:  699.6 MB
+  [Micro-step 8793] Loss: 6.9226 | Speed:  248.4 tok/s
+  [Micro-step 8794] Loss: 6.7783 | Speed:  195.7 tok/s
+  [Micro-step 8795] Loss: 7.2168 | Speed:  243.7 tok/s
+  [Micro-step 8796] Loss: 6.9680 | Speed:  210.5 tok/s
+  [Micro-step 8797] Loss: 7.0449 | Speed:  216.4 tok/s
+  [Micro-step 8798] Loss: 6.7318 | Speed:  206.0 tok/s
+  [Micro-step 8799] Loss: 6.6664 | Speed:  263.1 tok/s
+Step 1100/3250 (uStep 8800) | Loss: 6.7233 | GradNorm: 332703.062 | LR_scale: 0.770 | Speed:  214.9 tok/s | RSS:  674.8 MB
+  --> [Validation] Val Loss: 6.4873
+  --> [Sample Story] "Once upon a time, Lily, the  the, a:
+,, be the and He is, the$ ands the. to the was the$, to a.
+.. in and and$
+ the, $ the to. the the the"
+  --> [Sample Reason] "User: Is a cat an animal?
+
+Assistant:
+ and$. of for. the to  
+ the
+c
+ss and a*
+- of
+ the of. The the in."
+  --> [Checkpoint] Saved atomic checkpoint to /home/duoneural/srsn_ryzen/checkpoints/srsn_step1100.pt
+  [Micro-step 8801] Loss: 6.9896 | Speed:  196.2 tok/s
+  [Micro-step 8802] Loss: 6.6258 | Speed:  208.1 tok/s
+  [Micro-step 8803] Loss: 6.6054 | Speed:  207.4 tok/s
+  [Micro-step 8804] Loss: 7.0781 | Speed:  245.7 tok/s
+  [Micro-step 8805] Loss: 7.2210 | Speed:  250.3 tok/s
+  [Micro-step 8806] Loss: 6.3793 | Speed:  210.2 tok/s
+  [Micro-step 8807] Loss: 6.9986 | Speed:  214.8 tok/s
+Step 1101/3250 (uStep 8808) | Loss: 6.8460 | GradNorm: 2396.992 | LR_scale: 0.770 | Speed:  203.7 tok/s | RSS:  709.3 MB
+  [Micro-step 8809] Loss: 7.1429 | Speed:  231.2 tok/s
+  [Micro-step 8810] Loss: 6.5892 | Speed:  233.4 tok/s
+  [Micro-step 8811] Loss: 7.3540 | Speed:  235.2 tok/s
+  [Micro-step 8812] Loss: 6.8865 | Speed:  260.4 tok/s
+  [Micro-step 8813] Loss: 7.0323 | Speed:  203.7 tok/s
+  [Micro-step 8814] Loss: 6.5972 | Speed:  240.0 tok/s
+  [Micro-step 8815] Loss: 6.8468 | Speed:  221.1 tok/s
+Step 1102/3250 (uStep 8816) | Loss: 6.6017 | GradNorm: 1782.407 | LR_scale: 0.769 | Speed:  247.1 tok/s | RSS:  674.8 MB
+  [Micro-step 8817] Loss: 6.9922 | Speed:  224.7 tok/s
+  [Micro-step 8818] Loss: 6.6490 | Speed:  252.0 tok/s
+  [Micro-step 8819] Loss: 7.1453 | Speed:  228.1 tok/s
+  [Micro-step 8820] Loss: 6.4919 | Speed:  216.7 tok/s
+  [Micro-step 8821] Loss: 6.9396 | Speed:  207.7 tok/s
+  [Micro-step 8822] Loss: 6.6664 | Speed:  193.0 tok/s
+  [Micro-step 8823] Loss: 6.5904 | Speed:  247.6 tok/s
+Step 1103/3250 (uStep 8824) | Loss: 7.2922 | GradNorm: 119503.250 | LR_scale: 0.769 | Speed:  200.1 tok/s | RSS:  674.8 MB
+  [Micro-step 8825] Loss: 6.9117 | Speed:  226.1 tok/s
+  [Micro-step 8826] Loss: 6.8456 | Speed:  250.4 tok/s
+  [Micro-step 8827] Loss: 7.2223 | Speed:  197.2 tok/s
+  [Micro-step 8828] Loss: 6.4891 | Speed:  238.0 tok/s
+  [Micro-step 8829] Loss: 6.8318 | Speed:  216.0 tok/s
+  [Micro-step 8830] Loss: 6.5819 | Speed:  256.3 tok/s
+  [Micro-step 8831] Loss: 6.8651 | Speed:  239.9 tok/s
+Step 1104/3250 (uStep 8832) | Loss: 6.6574 | GradNorm: 3833.373 | LR_scale: 0.768 | Speed:  239.2 tok/s | RSS:  689.9 MB
+  [Micro-step 8833] Loss: 6.7219 | Speed:  228.9 tok/s
+  [Micro-step 8834] Loss: 6.9483 | Speed:  236.8 tok/s
+  [Micro-step 8835] Loss: 6.9443 | Speed:  200.8 tok/s
+  [Micro-step 8836] Loss: 6.8017 | Speed:  221.1 tok/s
+  [Micro-step 8837] Loss: 7.2151 | Speed:  205.8 tok/s
+  [Micro-step 8838] Loss: 6.4183 | Speed:  223.5 tok/s
+  [Micro-step 8839] Loss: 6.9928 | Speed:  207.5 tok/s
+Step 1105/3250 (uStep 8840) | Loss: 7.0861 | GradNorm: 1696.432 | LR_scale: 0.768 | Speed:  206.4 tok/s | RSS:  674.9 MB
+  [Micro-step 8841] Loss: 6.9487 | Speed:  244.0 tok/s
+  [Micro-step 8842] Loss: 7.2052 | Speed:  248.8 tok/s
+  [Micro-step 8843] Loss: 6.7433 | Speed:  237.7 tok/s
+  [Micro-step 8844] Loss: 6.7521 | Speed:  216.1 tok/s
+  [Micro-step 8845] Loss: 7.0599 | Speed:  192.8 tok/s
+  [Micro-step 8846] Loss: 6.8880 | Speed:  190.2 tok/s
+  [Micro-step 8847] Loss: 6.7307 | Speed:  242.0 tok/s
+Step 1106/3250 (uStep 8848) | Loss: 6.5161 | GradNorm: 6910.185 | LR_scale: 0.768 | Speed:  227.3 tok/s | RSS:  689.9 MB
+  [Micro-step 8849] Loss: 6.9030 | Speed:  241.1 tok/s
+  [Micro-step 8850] Loss: 6.7962 | Speed:  207.1 tok/s
+  [Micro-step 8851] Loss: 6.9059 | Speed:  239.8 tok/s
+  [Micro-step 8852] Loss: 6.6150 | Speed:  209.5 tok/s
+  [Micro-step 8853] Loss: 6.7016 | Speed:  204.4 tok/s
+  [Micro-step 8854] Loss: 7.0180 | Speed:  206.9 tok/s
+  [Micro-step 8855] Loss: 6.5050 | Speed:  212.1 tok/s
+Step 1107/3250 (uStep 8856) | Loss: 7.1223 | GradNorm: 797.075 | LR_scale: 0.767 | Speed:  251.4 tok/s | RSS:  679.9 MB
+  [Micro-step 8857] Loss: 6.4667 | Speed:  211.5 tok/s
+  [Micro-step 8858] Loss: 7.2114 | Speed:  231.3 tok/s
+  [Micro-step 8859] Loss: 6.8148 | Speed:  209.6 tok/s
+  [Micro-step 8860] Loss: 6.7523 | Speed:  255.9 tok/s
+  [Micro-step 8861] Loss: 6.7593 | Speed:  198.2 tok/s
+  [Micro-step 8862] Loss: 6.7391 | Speed:  218.7 tok/s
+  [Micro-step 8863] Loss: 7.0077 | Speed:  223.7 tok/s
+Step 1108/3250 (uStep 8864) | Loss: 6.7201 | GradNorm: 4764.797 | LR_scale: 0.767 | Speed:  228.6 tok/s | RSS:  699.9 MB
+  [Micro-step 8865] Loss: 6.8421 | Speed:  253.1 tok/s
+  [Micro-step 8866] Loss: 6.8019 | Speed:  232.3 tok/s
+  [Micro-step 8867] Loss: 6.9811 | Speed:  185.6 tok/s
+  [Micro-step 8868] Loss: 6.8338 | Speed:  212.6 tok/s
+  [Micro-step 8869] Loss: 6.6611 | Speed:  203.0 tok/s
+  [Micro-step 8870] Loss: 6.8189 | Speed:  200.9 tok/s
+  [Micro-step 8871] Loss: 6.6763 | Speed:  221.5 tok/s
+Step 1109/3250 (uStep 8872) | Loss: 6.9031 | GradNorm: 1099.149 | LR_scale: 0.767 | Speed:  235.1 tok/s | RSS:  700.3 MB
+  [Micro-step 8873] Loss: 6.7253 | Speed:  250.0 tok/s
+  [Micro-step 8874] Loss: 6.8385 | Speed:  233.2 tok/s
+  [Micro-step 8875] Loss: 6.8365 | Speed:  234.6 tok/s
+  [Micro-step 8876] Loss: 7.1383 | Speed:  224.4 tok/s
+  [Micro-step 8877] Loss: 6.7461 | Speed:  247.1 tok/s
+  [Micro-step 8878] Loss: 7.0149 | Speed:  239.3 tok/s
+  [Micro-step 8879] Loss: 6.9580 | Speed:  216.7 tok/s
+Step 1110/3250 (uStep 8880) | Loss: 6.9697 | GradNorm: 1008.533 | LR_scale: 0.766 | Speed:  206.5 tok/s | RSS:  688.1 MB
+  [Micro-step 8881] Loss: 6.9541 | Speed:  216.9 tok/s
+  [Micro-step 8882] Loss: 7.0759 | Speed:  247.1 tok/s
+  [Micro-step 8883] Loss: 6.7244 | Speed:  222.0 tok/s
+  [Micro-step 8884] Loss: 7.0449 | Speed:  242.9 tok/s
+  [Micro-step 8885] Loss: 6.7409 | Speed:  193.7 tok/s
+  [Micro-step 8886] Loss: 6.9248 | Speed:  244.0 tok/s
+  [Micro-step 8887] Loss: 6.8914 | Speed:  232.8 tok/s
+Step 1111/3250 (uStep 8888) | Loss: 6.7638 | GradNorm: 273055.000 | LR_scale: 0.766 | Speed:  221.5 tok/s | RSS:  694.9 MB
+  [Micro-step 8889] Loss: 6.5098 | Speed:  219.3 tok/s
+  [Micro-step 8890] Loss: 6.7269 | Speed:  251.3 tok/s
+  [Micro-step 8891] Loss: 6.9247 | Speed:  200.3 tok/s
+  [Micro-step 8892] Loss: 6.9296 | Speed:  215.1 tok/s
+  [Micro-step 8893] Loss: 6.5059 | Speed:  201.2 tok/s
+  [Micro-step 8894] Loss: 6.5370 | Speed:  203.8 tok/s
+  [Micro-step 8895] Loss: 6.7678 | Speed:  195.0 tok/s
+Step 1112/3250 (uStep 8896) | Loss: 6.6290 | GradNorm: 698.692 | LR_scale: 0.765 | Speed:  196.9 tok/s | RSS:  679.9 MB
+  [Micro-step 8897] Loss: 6.6787 | Speed:  214.4 tok/s
+  [Micro-step 8898] Loss: 6.4976 | Speed:  200.4 tok/s
+  [Micro-step 8899] Loss: 6.9781 | Speed:  211.1 tok/s
+  [Micro-step 8900] Loss: 6.7480 | Speed:  232.9 tok/s
+  [Micro-step 8901] Loss: 6.6371 | Speed:  194.9 tok/s
+  [Micro-step 8902] Loss: 7.0245 | Speed:  204.1 tok/s
+  [Micro-step 8903] Loss: 6.8083 | Speed:  223.7 tok/s
+Step 1113/3250 (uStep 8904) | Loss: 6.1951 | GradNorm: 1128.795 | LR_scale: 0.765 | Speed:  243.6 tok/s | RSS:  699.9 MB
+  [Micro-step 8905] Loss: 6.7729 | Speed:  186.8 tok/s
+  [Micro-step 8906] Loss: 6.6518 | Speed:  200.6 tok/s
+  [Micro-step 8907] Loss: 6.4542 | Speed:  200.0 tok/s
+  [Micro-step 8908] Loss: 6.7349 | Speed:  247.2 tok/s
+  [Micro-step 8909] Loss: 6.3647 | Speed:  232.1 tok/s
+  [Micro-step 8910] Loss: 6.8059 | Speed:  202.9 tok/s
+  [Micro-step 8911] Loss: 6.9211 | Speed:  215.5 tok/s
+Step 1114/3250 (uStep 8912) | Loss: 6.7241 | GradNorm: 1410.255 | LR_scale: 0.765 | Speed:  230.8 tok/s | RSS:  708.0 MB
+  [Micro-step 8913] Loss: 6.8157 | Speed:  189.1 tok/s
+  [Micro-step 8914] Loss: 6.4537 | Speed:  230.7 tok/s
+  [Micro-step 8915] Loss: 6.9639 | Speed:  202.9 tok/s
+  [Micro-step 8916] Loss: 6.4845 | Speed:  218.0 tok/s
+  [Micro-step 8917] Loss: 6.5879 | Speed:  236.1 tok/s
+  [Micro-step 8918] Loss: 7.1031 | Speed:  222.7 tok/s
+  [Micro-step 8919] Loss: 6.7870 | Speed:  224.0 tok/s
+Step 1115/3250 (uStep 8920) | Loss: 6.6807 | GradNorm: 3118.569 | LR_scale: 0.764 | Speed:  249.4 tok/s | RSS:  674.9 MB
+  [Micro-step 8921] Loss: 6.6727 | Speed:  224.7 tok/s
+  [Micro-step 8922] Loss: 7.1060 | Speed:  192.5 tok/s
+  [Micro-step 8923] Loss: 6.9641 | Speed:  219.7 tok/s
+  [Micro-step 8924] Loss: 6.9359 | Speed:  228.0 tok/s
+  [Micro-step 8925] Loss: 6.9029 | Speed:  200.0 tok/s
+  [Micro-step 8926] Loss: 6.8035 | Speed:  214.7 tok/s
+  [Micro-step 8927] Loss: 6.4032 | Speed:  218.4 tok/s
+Step 1116/3250 (uStep 8928) | Loss: 6.8046 | GradNorm: 1920.598 | LR_scale: 0.764 | Speed:  233.0 tok/s | RSS:  713.0 MB
+  [Micro-step 8929] Loss: 6.8874 | Speed:  180.1 tok/s
+  [Micro-step 8930] Loss: 6.5988 | Speed:  243.9 tok/s
+  [Micro-step 8931] Loss: 7.2321 | Speed:  228.0 tok/s
+  [Micro-step 8932] Loss: 6.6728 | Speed:  232.0 tok/s
+  [Micro-step 8933] Loss: 6.8058 | Speed:  234.6 tok/s
+  [Micro-step 8934] Loss: 6.4976 | Speed:  240.1 tok/s
+  [Micro-step 8935] Loss: 6.3880 | Speed:  224.4 tok/s
+Step 1117/3250 (uStep 8936) | Loss: 7.1028 | GradNorm: 323441.375 | LR_scale: 0.763 | Speed:  221.8 tok/s | RSS:  686.3 MB
+  [Micro-step 8937] Loss: 6.3104 | Speed:  231.1 tok/s
+  [Micro-step 8938] Loss: 6.2786 | Speed:  201.5 tok/s
+  [Micro-step 8939] Loss: 6.9370 | Speed:  216.0 tok/s
+  [Micro-step 8940] Loss: 7.1457 | Speed:  237.9 tok/s
+  [Micro-step 8941] Loss: 6.9750 | Speed:  234.0 tok/s
+  [Micro-step 8942] Loss: 6.6976 | Speed:  233.0 tok/s
+  [Micro-step 8943] Loss: 6.6069 | Speed:  232.0 tok/s
+Step 1118/3250 (uStep 8944) | Loss: 6.7134 | GradNorm: 6163.692 | LR_scale: 0.763 | Speed:  202.2 tok/s | RSS:  674.9 MB
